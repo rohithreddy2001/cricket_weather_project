@@ -1,0 +1,1149 @@
+match_id,date,venue,city,innings,team,team_total_score,overs_played,latitude,longitude,temperature_c,humidity_pct,rain_48hr_mm
+1276907,12-07-2022,"Kennington Oval, London",London,1,England,110,25.8,51.4821031,-0.1117327,29.1,39,0
+1276907,12-07-2022,"Kennington Oval, London",London,2,India,114,19.5,51.4821031,-0.1117327,27.5,39,0
+1276908,14-07-2022,"Lord's, London",London,1,England,246,50.5,51.5289277,-0.1715767,24.3,35,0
+1276908,14-07-2022,"Lord's, London",London,2,India,146,39,51.5289277,-0.1715767,21.2,37,0
+1276909,17-07-2022,"Old Trafford, Manchester",Manchester,1,England,259,47.7,53.4505995,-2.2731972,28.5,30,1.3
+1276909,17-07-2022,"Old Trafford, Manchester",Manchester,2,India,261,42.7,53.4505995,-2.2731972,27,42,1.3
+1276910,19-07-2022,"Riverside Ground, Chester-le-Street",Chester-le-Street,1,South Africa,333,51.2,54.8496667,-1.5609563,34.8,30,0.2
+1276910,19-07-2022,"Riverside Ground, Chester-le-Street",Chester-le-Street,2,England,271,48.2,54.8496667,-1.5609563,27.2,57,0.2
+1276911,22-07-2022,"Old Trafford, Manchester",Manchester,1,England,201,28.8,53.4505995,-2.2731972,17,79,9
+1276911,22-07-2022,"Old Trafford, Manchester",Manchester,2,South Africa,83,21.2,53.4505995,-2.2731972,17,89,9
+1276912,24-07-2022,"Headingley, Leeds",Leeds,1,South Africa,159,28.3,53.8210076,-1.5777737,23.1,62,1.6
+1277082,19-01-2022,"Boland Park, Paarl",Paarl,1,South Africa,296,52,-33.7406522,18.9974819,31.1,16,0
+1277082,19-01-2022,"Boland Park, Paarl",Paarl,2,India,265,51.8,-33.7406522,18.9974819,22.1,53,0
+1277083,21-01-2022,"Boland Park, Paarl",Paarl,1,India,287,51.8,-33.7406522,18.9974819,37.6,18,0
+1277083,21-01-2022,"Boland Park, Paarl",Paarl,2,South Africa,288,49,-33.7406522,18.9974819,28.6,43,0
+1277084,23-01-2022,"Newlands, Cape Town",Cape Town,1,South Africa,287,51.8,-33.9742832,18.4572951,28,56,0
+1277084,23-01-2022,"Newlands, Cape Town",Cape Town,2,India,283,50.8,-33.9742832,18.4572951,20.5,90,0
+1277085,08-01-2022,"Sabina Park, Kingston, Jamaica",Kingston,1,West Indies,269,50.8,17.9712148,-76.7928128,29.3,53,0.2
+1277085,08-01-2022,"Sabina Park, Kingston, Jamaica",Kingston,2,Ireland,245,50.7,17.9712148,-76.7928128,24.7,79,0.2
+1277086,13-01-2022,"Sabina Park, Kingston, Jamaica",Kingston,1,West Indies,229,51.2,17.9712148,-76.7928128,27,66,1.8
+1277086,13-01-2022,"Sabina Park, Kingston, Jamaica",Kingston,2,Ireland,168,33.7,17.9712148,-76.7928128,23.7,82,1.8
+1277087,16-01-2022,"Sabina Park, Kingston, Jamaica",Kingston,1,West Indies,212,46.2,17.9712148,-76.7928128,27.8,63,0
+1277087,16-01-2022,"Sabina Park, Kingston, Jamaica",Kingston,2,Ireland,214,47.8,17.9712148,-76.7928128,25.2,79,0
+1277097,18-03-2022,"SuperSport Park, Centurion",Centurion,1,Bangladesh,314,52.2,-25.8596237,28.1956445,23.4,42,0
+1277097,18-03-2022,"SuperSport Park, Centurion",Centurion,2,South Africa,276,50.2,-25.8596237,28.1956445,17.5,64,0
+1277098,20-03-2022,"The Wanderers Stadium, Johannesburg",Johannesburg,1,Bangladesh,194,51.7,-26.205,28.049722,22.2,41,0
+1277098,20-03-2022,"The Wanderers Stadium, Johannesburg",Johannesburg,2,South Africa,195,38,-26.205,28.049722,17.7,68,0
+1277099,23-03-2022,"SuperSport Park, Centurion",Centurion,1,South Africa,154,37.8,-25.8596237,28.1956445,23.8,37,0
+1277099,23-03-2022,"SuperSport Park, Centurion",Centurion,2,Bangladesh,156,27,-25.8596237,28.1956445,17.2,61,0
+1278676,06-02-2022,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,West Indies,176,44.5,23.0917717,72.5973345,28.9,24,0
+1278676,06-02-2022,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,India,178,29.3,23.0917717,72.5973345,19.9,45,0
+1278677,09-02-2022,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,India,237,50.7,23.0917717,72.5973345,28.1,31,0
+1278677,09-02-2022,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,West Indies,193,47.2,23.0917717,72.5973345,21.5,39,0
+1278678,11-02-2022,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,India,265,53.2,23.0917717,72.5973345,27.2,21,0
+1278678,11-02-2022,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,West Indies,169,38.5,23.0917717,72.5973345,18.8,43,0
+1281444,17-06-2022,"VRA Ground, Amstelveen",Amstelveen,1,England,498,52.7,52.3195895,4.8490418,26,44,0
+1281444,17-06-2022,"VRA Ground, Amstelveen",Amstelveen,2,Netherlands,266,50.2,52.3195895,4.8490418,25.4,59,0
+1281445,19-06-2022,"VRA Ground, Amstelveen",Amstelveen,1,Netherlands,235,41.7,52.3195895,4.8490418,15.9,69,3.5
+1281445,19-06-2022,"VRA Ground, Amstelveen",Amstelveen,2,England,239,36.5,52.3195895,4.8490418,14.7,71,3.5
+1281446,22-06-2022,"VRA Ground, Amstelveen",Amstelveen,1,Netherlands,244,51.5,52.3195895,4.8490418,21.9,39,0
+1281446,22-06-2022,"VRA Ground, Amstelveen",Amstelveen,2,England,248,31.3,52.3195895,4.8490418,19.8,66,0
+1288313,29-03-2022,"Gaddafi Stadium, Lahore",Lahore,1,Australia,313,52,31.5133615,74.3334644,36.2,19,0
+1288313,29-03-2022,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,225,46,31.5133615,74.3334644,26.6,56,0
+1288314,31-03-2022,"Gaddafi Stadium, Lahore",Lahore,1,Australia,348,50.3,31.5133615,74.3334644,35.9,14,0
+1288314,31-03-2022,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,349,49.3,31.5133615,74.3334644,25.9,30,0
+1288315,02-04-2022,"Gaddafi Stadium, Lahore",Lahore,1,Australia,210,42.8,31.5133615,74.3334644,36.8,13,0
+1288315,02-04-2022,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,214,38.2,31.5133615,74.3334644,27.4,31,0
+1288987,29-03-2022,"Bay Oval, Mount Maunganui",Mount Maunganui,1,Netherlands,202,50.8,-37.6528558,176.1907126,24.2,63,1.3
+1288987,29-03-2022,"Bay Oval, Mount Maunganui",Mount Maunganui,2,New Zealand,204,40.8,-37.6528558,176.1907126,19,81,1.3
+1288988,02-04-2022,"Seddon Park, Hamilton",Hamilton,1,New Zealand,264,52.3,-37.7867613,175.2742998,22.7,69,0.6
+1288988,02-04-2022,"Seddon Park, Hamilton",Hamilton,2,Netherlands,146,35.5,-37.7867613,175.2742998,16.6,94,0.6
+1288989,04-04-2022,"Seddon Park, Hamilton",Hamilton,1,New Zealand,333,52.7,-37.7867613,175.2742998,23,57,0
+1288989,04-04-2022,"Seddon Park, Hamilton",Hamilton,2,Netherlands,218,44,-37.7867613,175.2742998,16.1,89,0
+1294969,16-01-2022,Pallekele International Cricket Stadium,Kandy,1,Zimbabwe,296,51.3,7.2806408,80.7224634,25.9,75,0.4
+1294969,16-01-2022,Pallekele International Cricket Stadium,Kandy,2,Sri Lanka,300,50.2,7.2806408,80.7224634,22.1,90,0.4
+1294970,18-01-2022,Pallekele International Cricket Stadium,Kandy,1,Zimbabwe,302,50.7,7.2806408,80.7224634,26.3,72,0.3
+1294970,18-01-2022,Pallekele International Cricket Stadium,Kandy,2,Sri Lanka,280,50.7,7.2806408,80.7224634,22.2,90,0.3
+1294971,21-01-2022,Pallekele International Cricket Stadium,Kandy,1,Sri Lanka,254,50.7,7.2806408,80.7224634,29.2,35,0
+1294971,21-01-2022,Pallekele International Cricket Stadium,Kandy,2,Zimbabwe,70,25.3,7.2806408,80.7224634,21.4,84,0
+1299586,05-02-2022,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Oman,307,50.7,15.5751567,32.5460757,24.7,13,0
+1299586,05-02-2022,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,United Arab Emirates,308,49.8,15.5751567,32.5460757,19.8,17,0
+1299587,06-02-2022,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Oman,195,47.7,15.5751567,32.5460757,26.6,12,0
+1299587,06-02-2022,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,United Arab Emirates,196,45.8,15.5751567,32.5460757,21.2,20,0
+1299588,08-02-2022,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Oman,214,50.3,15.5751567,32.5460757,31,18,0
+1299588,08-02-2022,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,United Arab Emirates,214,50.7,15.5751567,32.5460757,26.2,19,0
+1302349,31-05-2022,"VRA Ground, Amstelveen",Amstelveen,1,Netherlands,240,46.7,52.3195895,4.8490418,14.6,64,1.3
+1302349,31-05-2022,"VRA Ground, Amstelveen",Amstelveen,2,West Indies,249,43.8,52.3195895,4.8490418,13.3,69,1.3
+1302350,02-06-2022,"VRA Ground, Amstelveen",Amstelveen,1,Netherlands,214,50,52.3195895,4.8490418,17.7,55,0
+1302350,02-06-2022,"VRA Ground, Amstelveen",Amstelveen,2,West Indies,217,47.2,52.3195895,4.8490418,15.4,64,0
+1302351,04-06-2022,"VRA Ground, Amstelveen",Amstelveen,1,West Indies,308,53.3,52.3195895,4.8490418,17.9,66,0.2
+1302351,04-06-2022,"VRA Ground, Amstelveen",Amstelveen,2,Netherlands,288,52,52.3195895,4.8490418,16.7,74,0.2
+1302616,05-03-2022,"ICC Academy, Dubai",Dubai,1,Oman,225,51.8,25.0742823,55.1885387,27.6,30,0
+1302616,05-03-2022,"ICC Academy, Dubai",Dubai,2,United Arab Emirates,213,49.8,25.0742823,55.1885387,23.6,62,0
+1302617,06-03-2022,"ICC Academy, Dubai",Dubai,1,Namibia,226,51.2,25.0742823,55.1885387,27.9,38,0
+1302617,06-03-2022,"ICC Academy, Dubai",Dubai,2,Oman,116,42.7,25.0742823,55.1885387,23,79,0
+1302618,08-03-2022,"ICC Academy, Dubai",Dubai,1,Namibia,206,52.2,25.0742823,55.1885387,36.1,16,0
+1302618,08-03-2022,"ICC Academy, Dubai",Dubai,2,United Arab Emirates,207,49.3,25.0742823,55.1885387,26.4,42,0
+1302619,09-03-2022,"ICC Academy, Dubai",Dubai,1,Oman,221,50.7,25.0742823,55.1885387,30.6,42,0
+1302619,09-03-2022,"ICC Academy, Dubai",Dubai,2,United Arab Emirates,213,49.5,25.0742823,55.1885387,26.1,57,0
+1302620,11-03-2022,Sharjah Cricket Stadium,Sharjah,1,Namibia,275,51.2,25.3308493,55.4208718,34.9,23,0
+1302620,11-03-2022,Sharjah Cricket Stadium,Sharjah,2,Oman,276,47,25.3308493,55.4208718,28.1,35,0
+1302621,12-03-2022,Sharjah Cricket Stadium,Sharjah,1,United Arab Emirates,348,51.5,25.3308493,55.4208718,29,35,0
+1302621,12-03-2022,Sharjah Cricket Stadium,Sharjah,2,Namibia,305,51.3,25.3308493,55.4208718,26.9,45,0
+1302622,14-03-2022,Dubai International Cricket Stadium,Dubai,1,Oman,265,51.7,25.0467384,55.219007,30.4,40,0
+1302622,14-03-2022,Dubai International Cricket Stadium,Dubai,2,Namibia,266,48.8,25.0467384,55.219007,25.2,79,0
+1302623,15-03-2022,Sharjah Cricket Stadium,Sharjah,1,Papua New Guinea,176,50.7,25.3308493,55.4208718,32.7,33,0
+1302623,15-03-2022,Sharjah Cricket Stadium,Sharjah,2,United Arab Emirates,179,45.5,25.3308493,55.4208718,25.7,72,0
+1302624,16-03-2022,Sharjah Cricket Stadium,Sharjah,1,Papua New Guinea,204,50.5,25.3308493,55.4208718,33.2,23,0
+1302624,16-03-2022,Sharjah Cricket Stadium,Sharjah,2,Nepal,208,50.7,25.3308493,55.4208718,26.1,62,0
+1302625,18-03-2022,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,168,47.5,25.0467384,55.219007,24.1,52,0
+1302625,18-03-2022,Dubai International Cricket Stadium,Dubai,2,Nepal,120,35.8,25.0467384,55.219007,21.1,66,0
+1302626,19-03-2022,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,147,51.7,25.0467384,55.219007,24.8,51,0
+1302626,19-03-2022,Dubai International Cricket Stadium,Dubai,2,Papua New Guinea,150,37,25.0467384,55.219007,22,65,0
+1302627,21-03-2022,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,202,50.3,25.0467384,55.219007,26.6,53,0
+1302627,21-03-2022,Dubai International Cricket Stadium,Dubai,2,Nepal,103,36,25.0467384,55.219007,22.5,81,0
+1302628,22-03-2022,Dubai International Cricket Stadium,Dubai,1,Papua New Guinea,173,50.5,25.0467384,55.219007,28.2,48,0
+1302628,22-03-2022,Dubai International Cricket Stadium,Dubai,2,Nepal,174,38.5,25.0467384,55.219007,23.4,88,0
+1303309,10-07-2022,"The Village, Malahide, Dublin",Dublin,1,Ireland,300,51.2,53.4562481,-6.2206297,18.6,80,0
+1303309,10-07-2022,"The Village, Malahide, Dublin",Dublin,2,New Zealand,305,51.5,53.4562481,-6.2206297,15.7,88,0
+1303310,12-07-2022,"The Village, Malahide, Dublin",Dublin,1,Ireland,216,50.3,53.4562481,-6.2206297,21.8,63,0.4
+1303310,12-07-2022,"The Village, Malahide, Dublin",Dublin,2,New Zealand,219,39.2,53.4562481,-6.2206297,20.7,72,0.4
+1303311,15-07-2022,"The Village, Malahide, Dublin",Dublin,1,New Zealand,360,51.5,53.4562481,-6.2206297,21.5,53,0.3
+1303311,15-07-2022,"The Village, Malahide, Dublin",Dublin,2,Ireland,359,51.3,53.4562481,-6.2206297,18.2,74,0.3
+1305496,25-03-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Papua New Guinea,292,51.2,19.2200292,84.8357446,29.4,77,0
+1305496,25-03-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,286,51,19.2200292,84.8357446,27.8,84,0
+1305497,26-03-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,278,50.8,19.2200292,84.8357446,30.7,75,0.3
+1305497,26-03-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Papua New Guinea,283,50,19.2200292,84.8357446,28.5,76,0.3
+1307296,14-06-2022,Pallekele International Cricket Stadium,Kandy,1,Sri Lanka,300,51,7.2806408,80.7224634,26.6,82,6.6
+1307296,14-06-2022,Pallekele International Cricket Stadium,Kandy,2,Australia,282,43.2,7.2806408,80.7224634,23.5,95,6.6
+1307297,16-06-2022,Pallekele International Cricket Stadium,Kandy,1,Sri Lanka,220,48.2,7.2806408,80.7224634,25.3,84,4.3
+1307297,16-06-2022,Pallekele International Cricket Stadium,Kandy,2,Australia,189,38.2,7.2806408,80.7224634,23.2,95,4.3
+1307298,19-06-2022,"R Premadasa Stadium, Colombo",Colombo,1,Australia,291,50.8,6.9399983,79.8722901,28.1,76,10.9
+1307298,19-06-2022,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,292,48.8,6.9399983,79.8722901,26.9,81,10.9
+1307299,21-06-2022,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,258,50,6.9399983,79.8722901,28.1,79,10
+1307299,21-06-2022,"R Premadasa Stadium, Colombo",Colombo,2,Australia,254,50.7,6.9399983,79.8722901,26.5,89,10
+1307300,24-06-2022,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,160,43.7,6.9399983,79.8722901,27,83,16
+1307300,24-06-2022,"R Premadasa Stadium, Colombo",Colombo,2,Australia,164,40.8,6.9399983,79.8722901,26.9,82,16
+1307479,31-07-2022,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Edinburgh,1,Scotland,306,51.7,55.9533456,-3.1883749,15.3,73,1.5
+1307479,31-07-2022,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Edinburgh,2,New Zealand,307,46,55.9533456,-3.1883749,15.8,75,1.5
+1308244,09-04-2022,Dubai International Cricket Stadium,Dubai,1,Scotland,284,51.3,25.0467384,55.219007,31.8,37,0
+1308244,09-04-2022,Dubai International Cricket Stadium,Dubai,2,Papua New Guinea,122,37.3,25.0467384,55.219007,26.3,71,0
+1308245,10-04-2022,Dubai International Cricket Stadium,Dubai,1,Scotland,215,51.3,25.0467384,55.219007,34.8,18,0
+1308245,10-04-2022,Dubai International Cricket Stadium,Dubai,2,Oman,211,49.7,25.0467384,55.219007,28.5,53,0
+1308246,12-04-2022,Dubai International Cricket Stadium,Dubai,1,Papua New Guinea,224,50.7,25.0467384,55.219007,33,32,0
+1308246,12-04-2022,Dubai International Cricket Stadium,Dubai,2,Oman,227,46,25.0467384,55.219007,29,47,0
+1308247,13-04-2022,Dubai International Cricket Stadium,Dubai,1,Scotland,287,51.3,25.0467384,55.219007,34.2,27,0
+1308247,13-04-2022,Dubai International Cricket Stadium,Dubai,2,Papua New Guinea,164,36.5,25.0467384,55.219007,30.2,47,0
+1308248,15-04-2022,Dubai International Cricket Stadium,Dubai,1,Oman,225,50.3,25.0467384,55.219007,32.7,46,0
+1308248,15-04-2022,Dubai International Cricket Stadium,Dubai,2,Scotland,226,50.5,25.0467384,55.219007,29.6,61,0
+1308249,16-04-2022,Dubai International Cricket Stadium,Dubai,1,Oman,277,52.7,25.0467384,55.219007,33.8,42,0
+1308249,16-04-2022,Dubai International Cricket Stadium,Dubai,2,Papua New Guinea,192,45.5,25.0467384,55.219007,30,56,0
+1311737,16-08-2022,"Hazelaarweg, Rotterdam",Rotterdam,1,Pakistan,314,51.5,51.967391,4.4800497,24.9,60,0
+1311737,16-08-2022,"Hazelaarweg, Rotterdam",Rotterdam,2,Netherlands,298,51.8,51.967391,4.4800497,21.5,77,0
+1311738,18-08-2022,"Hazelaarweg, Rotterdam",Rotterdam,1,Netherlands,186,44.8,51.967391,4.4800497,24.2,62,2.3
+1311738,18-08-2022,"Hazelaarweg, Rotterdam",Rotterdam,2,Pakistan,191,34.5,51.967391,4.4800497,20.8,79,2.3
+1311739,21-08-2022,"Hazelaarweg, Rotterdam",Rotterdam,1,Pakistan,206,50.8,51.967391,4.4800497,22.2,57,0.8
+1311739,21-08-2022,"Hazelaarweg, Rotterdam",Rotterdam,2,Netherlands,197,51.2,51.967391,4.4800497,19.2,69,0.8
+1312798,28-05-2022,"Choice Moosa Stadium, Pearland",Pearland,1,United States of America,310,52.3,29.5639758,-95.2864299,33.5,44,0
+1312798,28-05-2022,"Choice Moosa Stadium, Pearland",Pearland,2,Scotland,206,46.7,29.5639758,-95.2864299,28.4,71,0
+1312799,29-05-2022,"Choice Moosa Stadium, Pearland",Pearland,1,Scotland,300,51.2,29.5639758,-95.2864299,31.6,51,0.1
+1312799,29-05-2022,"Choice Moosa Stadium, Pearland",Pearland,2,United States of America,189,43.7,29.5639758,-95.2864299,27.2,75,0.1
+1312800,31-05-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,United Arab Emirates,215,51.2,29.5176686,-95.3257144,31.3,55,2.5
+1312800,31-05-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,Scotland,217,48.7,29.5176686,-95.3257144,27,81,2.5
+1312801,01-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,United Arab Emirates,203,51,29.5176686,-95.3257144,31.4,59,0.4
+1312801,01-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,United States of America,204,45.8,29.5176686,-95.3257144,27.6,71,0.4
+1312802,03-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,Scotland,171,50.7,29.5176686,-95.3257144,33,41,0
+1312802,03-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,United Arab Emirates,172,44.5,29.5176686,-95.3257144,28.1,60,0
+1312803,04-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,United States of America,198,47,29.5176686,-95.3257144,32.1,53,4.3
+1312803,04-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,United Arab Emirates,200,40.5,29.5176686,-95.3257144,25,82,4.3
+1312804,08-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,United States of America,323,51.2,29.5176686,-95.3257144,34.4,44,0.2
+1312804,08-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,Oman,209,43.7,29.5176686,-95.3257144,29,75,0.2
+1312805,09-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,Oman,211,50.5,29.5176686,-95.3257144,34.7,45,0.5
+1312805,09-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,Nepal,198,50.5,29.5176686,-95.3257144,29.5,68,0.5
+1312806,11-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,Nepal,274,51,29.5176686,-95.3257144,36.3,39,0
+1312806,11-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,United States of America,274,51.3,29.5176686,-95.3257144,29.9,65,0
+1312807,12-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,Oman,280,51,29.5176686,-95.3257144,36,42,0
+1312807,12-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,United States of America,267,50.7,29.5176686,-95.3257144,29.1,71,0
+1312808,14-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,Oman,163,47.8,29.5176686,-95.3257144,33.8,43,1.3
+1312808,14-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,Nepal,167,33.8,29.5176686,-95.3257144,29,73,1.3
+1312809,15-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,1,United States of America,245,50.8,29.5176686,-95.3257144,34,47,0.8
+1312809,15-06-2022,"Moosa Cricket Stadium, Pearland",Pearland,2,Nepal,206,47.8,29.5176686,-95.3257144,29.1,71,0.8
+1315038,08-06-2022,Multan Cricket Stadium,Multan,1,West Indies,305,50.8,30.170783,71.5247746,44.9,9,0
+1315038,08-06-2022,Multan Cricket Stadium,Multan,2,Pakistan,306,51.3,30.170783,71.5247746,36.7,15,0
+1315039,10-06-2022,Multan Cricket Stadium,Multan,1,Pakistan,275,51,30.170783,71.5247746,43.1,23,0
+1315039,10-06-2022,Multan Cricket Stadium,Multan,2,West Indies,155,32.8,30.170783,71.5247746,37.2,29,0
+1315040,12-06-2022,Multan Cricket Stadium,Multan,1,Pakistan,269,49.5,30.170783,71.5247746,41.4,23,0.6
+1315040,12-06-2022,Multan Cricket Stadium,Multan,2,West Indies,216,38.3,30.170783,71.5247746,36.9,24,0.6
+1317152,10-07-2022,"Providence Stadium, Guyana",Providence,1,West Indies,149,41.8,41.8239891,-71.4128343,26.7,30,0
+1317152,10-07-2022,"Providence Stadium, Guyana",Providence,2,Bangladesh,151,33.5,41.8239891,-71.4128343,21,62,0
+1317153,13-07-2022,"Providence Stadium, Guyana",Providence,1,West Indies,108,35.5,41.8239891,-71.4128343,31.8,30,0
+1317153,13-07-2022,"Providence Stadium, Guyana",Providence,2,Bangladesh,112,22.2,41.8239891,-71.4128343,25.5,60,0
+1317154,16-07-2022,"Providence Stadium, Guyana",Providence,1,West Indies,178,49.3,41.8239891,-71.4128343,27.1,42,0
+1317154,16-07-2022,"Providence Stadium, Guyana",Providence,2,Bangladesh,179,49.3,41.8239891,-71.4128343,23,72,0
+1317476,28-08-2022,"Tony Ireland Stadium, Townsville",Townsville,1,Zimbabwe,200,48.3,-19.3176133,146.7318706,24.7,61,1.2
+1317476,28-08-2022,"Tony Ireland Stadium, Townsville",Townsville,2,Australia,201,35,-19.3176133,146.7318706,21.5,69,1.2
+1317477,31-08-2022,"Tony Ireland Stadium, Townsville",Townsville,1,Zimbabwe,96,28.8,-19.3176133,146.7318706,25,62,0.1
+1317477,31-08-2022,"Tony Ireland Stadium, Townsville",Townsville,2,Australia,100,15.8,-19.3176133,146.7318706,21.2,81,0.1
+1317478,03-09-2022,"Riverway Stadium, Townsville",Townsville,1,Australia,141,31.3,-19.3176159,146.7318618,25,49,7.2
+1317478,03-09-2022,"Riverway Stadium, Townsville",Townsville,2,Zimbabwe,142,39.5,-19.3176159,146.7318618,20.8,58,7.2
+1317479,06-09-2022,"Cazaly's Stadium, Cairns",Cairns,1,New Zealand,232,50.8,-16.9206657,145.7721854,24.6,76,0.7
+1317479,06-09-2022,"Cazaly's Stadium, Cairns",Cairns,2,Australia,233,46,-16.9206657,145.7721854,21.3,89,0.7
+1317480,08-09-2022,"Cazaly's Stadium, Cairns",Cairns,1,Australia,195,50.3,-16.9206657,145.7721854,25.1,70,0.7
+1317480,08-09-2022,"Cazaly's Stadium, Cairns",Cairns,2,New Zealand,82,33.3,-16.9206657,145.7721854,22.3,84,0.7
+1317481,11-09-2022,"Cazaly's Stadium, Cairns",Cairns,1,Australia,267,51.3,-16.9206657,145.7721854,26.9,65,0
+1317481,11-09-2022,"Cazaly's Stadium, Cairns",Cairns,2,New Zealand,242,50.5,-16.9206657,145.7721854,22.9,86,0
+1317489,17-11-2022,Adelaide Oval,Adelaide,1,England,287,51.8,-34.9155946,138.5961558,19.3,61,0
+1317489,17-11-2022,Adelaide Oval,Adelaide,2,Australia,291,47.8,-34.9155946,138.5961558,16.2,56,0
+1317490,19-11-2022,Sydney Cricket Ground,Sydney,1,Australia,280,50.3,-33.8914241,151.2247484,21.4,63,0
+1317490,19-11-2022,Sydney Cricket Ground,Sydney,2,England,208,39.7,-33.8914241,151.2247484,19.2,77,0
+1317491,22-11-2022,Melbourne Cricket Ground,Melbourne,1,Australia,355,49.7,-37.819909,144.983225,15.6,71,4.2
+1317491,22-11-2022,Melbourne Cricket Ground,Melbourne,2,England,142,32.8,-37.819909,144.983225,13.9,76,4.2
+1317900,22-07-2022,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,1,India,308,51.2,10.6572678,-61.5180173,29.4,66,0.7
+1317900,22-07-2022,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,2,West Indies,305,52,10.6572678,-61.5180173,25.8,80,0.7
+1317901,24-07-2022,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,1,West Indies,311,51.2,10.6572678,-61.5180173,31.7,46,0.5
+1317901,24-07-2022,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,2,India,312,50.7,10.6572678,-61.5180173,25.6,79,0.5
+1317902,27-07-2022,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,1,India,225,37.7,10.6572678,-61.5180173,28.5,68,3.5
+1317902,27-07-2022,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,2,West Indies,137,26.2,10.6572678,-61.5180173,25.5,88,3.5
+1317911,17-08-2022,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,New Zealand,190,45.5,13.0977832,-59.6184184,29.4,62,2.3
+1317911,17-08-2022,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,West Indies,193,40.7,13.0977832,-59.6184184,26,80,2.3
+1317912,19-08-2022,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,New Zealand,212,48.7,13.0977832,-59.6184184,29.1,66,1.8
+1317912,19-08-2022,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,West Indies,161,36.8,13.0977832,-59.6184184,25.2,89,1.8
+1317913,21-08-2022,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,West Indies,301,51.5,13.0977832,-59.6184184,27.1,79,10.5
+1317913,21-08-2022,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,New Zealand,307,48.2,13.0977832,-59.6184184,26.5,86,10.5
+1322031,11-07-2022,"Cambusdoon New Ground, Ayr",Ayr,1,Namibia,220,48.3,55.430776,-4.6347686,21.3,63,0
+1322031,11-07-2022,"Cambusdoon New Ground, Ayr",Ayr,2,Nepal,180,48.2,55.430776,-4.6347686,20,61,0
+1322032,13-07-2022,"Titwood, Glasgow",Glasgow,1,Scotland,144,43.7,55.835621,-4.2857484,15.8,69,1.4
+1322032,13-07-2022,"Titwood, Glasgow",Glasgow,2,Nepal,146,26.2,55.835621,-4.2857484,14.8,65,1.4
+1322033,14-07-2022,"Titwood, Glasgow",Glasgow,1,Namibia,215,50.5,55.835621,-4.2857484,17,63,0.5
+1322033,14-07-2022,"Titwood, Glasgow",Glasgow,2,Scotland,219,49.3,55.835621,-4.2857484,15,70,0.5
+1322034,16-07-2022,"Cambusdoon New Ground, Ayr",Ayr,1,Namibia,199,50.2,55.430776,-4.6347686,16.4,86,1.9
+1322034,16-07-2022,"Cambusdoon New Ground, Ayr",Ayr,2,Nepal,136,38.7,55.430776,-4.6347686,17.5,88,1.9
+1322035,17-07-2022,"Titwood, Glasgow",Glasgow,1,Nepal,128,37,55.835621,-4.2857484,24.2,55,2.1
+1322035,17-07-2022,"Titwood, Glasgow",Glasgow,2,Scotland,130,19.5,55.835621,-4.2857484,20.8,63,2.1
+1322036,10-08-2022,"Mannofield Park, Aberdeen",Aberdeen,1,Scotland,262,50,57.1482429,-2.0928095,22.6,60,0
+1322036,10-08-2022,"Mannofield Park, Aberdeen",Aberdeen,2,United Arab Emirates,198,43,57.1482429,-2.0928095,20.5,67,0
+1322037,11-08-2022,"Mannofield Park, Aberdeen",Aberdeen,1,United Arab Emirates,253,50.5,57.1482429,-2.0928095,23,55,0
+1322037,11-08-2022,"Mannofield Park, Aberdeen",Aberdeen,2,United States of America,256,50.7,57.1482429,-2.0928095,17.6,69,0
+1322038,13-08-2022,"Mannofield Park, Aberdeen",Aberdeen,1,United States of America,295,52,57.1482429,-2.0928095,18.9,75,0
+1322038,13-08-2022,"Mannofield Park, Aberdeen",Aberdeen,2,Scotland,301,48.7,57.1482429,-2.0928095,16.6,90,0
+1322039,14-08-2022,"Mannofield Park, Aberdeen",Aberdeen,1,Scotland,254,51.3,57.1482429,-2.0928095,18.2,85,0
+1322039,14-08-2022,"Mannofield Park, Aberdeen",Aberdeen,2,United Arab Emirates,168,42,57.1482429,-2.0928095,16.8,93,0
+1322041,17-08-2022,"Mannofield Park, Aberdeen",Aberdeen,1,Scotland,249,51,57.1482429,-2.0928095,13.3,60,0
+1322041,17-08-2022,"Mannofield Park, Aberdeen",Aberdeen,2,United States of America,250,50.8,57.1482429,-2.0928095,12,71,0
+1322278,25-11-2022,"Eden Park, Auckland",Auckland,1,India,306,51.3,-36.8750352,174.7440567,17.6,58,1.9
+1322278,25-11-2022,"Eden Park, Auckland",Auckland,2,New Zealand,309,48.8,-36.8750352,174.7440567,15.8,64,1.9
+1322279,27-11-2022,"Seddon Park, Hamilton",Hamilton,1,India,89,13,-37.7867613,175.2742998,15.4,93,19.8
+1322280,30-11-2022,"Hagley Oval, Christchurch",Christchurch,1,India,219,49,-43.5344119,172.618646,15.7,86,11.6
+1322280,30-11-2022,"Hagley Oval, Christchurch",Christchurch,2,New Zealand,104,18.5,-43.5344119,172.618646,12.6,89,11.6
+1322359,25-03-2023,"Eden Park, Auckland",Auckland,1,New Zealand,274,51.8,-36.8750352,174.7440567,20.4,59,0.9
+1322359,25-03-2023,"Eden Park, Auckland",Auckland,2,Sri Lanka,76,20.3,-36.8750352,174.7440567,16.8,82,0.9
+1322361,31-03-2023,"Seddon Park, Hamilton",Hamilton,1,Sri Lanka,157,42.8,-37.7867613,175.2742998,20,59,0
+1322361,31-03-2023,"Seddon Park, Hamilton",Hamilton,2,New Zealand,159,33.8,-37.7867613,175.2742998,14,89,0
+1323292,05-08-2022,Harare Sports Club,Harare,1,Bangladesh,303,51.5,-17.8136915,31.0504604,24.5,26,0
+1323292,05-08-2022,Harare Sports Club,Harare,2,Zimbabwe,307,49.8,-17.8136915,31.0504604,16.6,46,0
+1323293,07-08-2022,Harare Sports Club,Harare,1,Bangladesh,290,51.2,-17.8136915,31.0504604,23.2,20,0
+1323293,07-08-2022,Harare Sports Club,Harare,2,Zimbabwe,291,48.7,-17.8136915,31.0504604,15.6,23,0
+1323294,10-08-2022,Harare Sports Club,Harare,1,Bangladesh,256,52,-17.8136915,31.0504604,24,29,0
+1323294,10-08-2022,Harare Sports Club,Harare,2,Zimbabwe,151,34.5,-17.8136915,31.0504604,17.3,43,0
+1325549,18-08-2022,Harare Sports Club,Harare,1,Zimbabwe,189,41.3,-17.8136915,31.0504604,26.9,19,0
+1325549,18-08-2022,Harare Sports Club,Harare,2,India,192,33.2,-17.8136915,31.0504604,18.6,26,0
+1325550,20-08-2022,Harare Sports Club,Harare,1,Zimbabwe,161,39.7,-17.8136915,31.0504604,27.2,18,0
+1325550,20-08-2022,Harare Sports Club,Harare,2,India,167,28.2,-17.8136915,31.0504604,17.6,27,0
+1325551,22-08-2022,Harare Sports Club,Harare,1,India,289,51.5,-17.8136915,31.0504604,22.1,30,0
+1325551,22-08-2022,Harare Sports Club,Harare,2,Zimbabwe,276,51.5,-17.8136915,31.0504604,15.5,53,0
+1327509,06-10-2022,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,South Africa,249,42,26.8112572,81.0167842,25.1,91,32.9
+1327509,06-10-2022,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2,India,240,42.3,26.8112572,81.0167842,24.8,94,32.9
+1327510,09-10-2022,"JSCA International Stadium Complex, Ranchi",Ranchi,1,South Africa,278,50.5,23.3104522,85.2748774,28.2,62,0.5
+1327510,09-10-2022,"JSCA International Stadium Complex, Ranchi",Ranchi,2,India,282,46.5,23.3104522,85.2748774,22.3,93,0.5
+1327511,11-10-2022,"Arun Jaitley Stadium, Delhi",Delhi,1,South Africa,99,27.8,28.6377017,77.2431069,26.6,72,2.2
+1327511,11-10-2022,"Arun Jaitley Stadium, Delhi",Delhi,2,India,105,19.5,28.6377017,77.2431069,22.4,94,2.2
+1331365,11-09-2022,"Amini Park, Port Moresby",Port Moresby,1,United States of America,205,48,-9.4733843,147.2016264,28,82,6
+1331365,11-09-2022,"Amini Park, Port Moresby",Port Moresby,2,Papua New Guinea,205,50.8,-9.4733843,147.2016264,25.2,95,6
+1331366,13-09-2022,"Amini Park, Port Moresby",Port Moresby,1,Papua New Guinea,211,51,-9.4733843,147.2016264,28.9,78,0.3
+1331366,13-09-2022,"Amini Park, Port Moresby",Port Moresby,2,United States of America,185,47.7,-9.4733843,147.2016264,26.9,81,0.3
+1331367,15-09-2022,"Amini Park, Port Moresby",Port Moresby,1,Namibia,176,49.3,-9.4733843,147.2016264,29,74,3.6
+1331367,15-09-2022,"Amini Park, Port Moresby",Port Moresby,2,United States of America,97,32,-9.4733843,147.2016264,25.7,95,3.6
+1331368,17-09-2022,"Amini Park, Port Moresby",Port Moresby,1,Namibia,254,51.2,-9.4733843,147.2016264,28.7,79,4.1
+1331368,17-09-2022,"Amini Park, Port Moresby",Port Moresby,2,United States of America,186,50.2,-9.4733843,147.2016264,25.9,95,4.1
+1331369,20-09-2022,"Amini Park, Port Moresby",Port Moresby,1,Namibia,284,51.2,-9.4733843,147.2016264,30,70,2.1
+1331369,20-09-2022,"Amini Park, Port Moresby",Port Moresby,2,Papua New Guinea,117,43,-9.4733843,147.2016264,27,83,2.1
+1331370,21-09-2022,"Amini Park, Port Moresby",Port Moresby,1,Namibia,214,52,-9.4733843,147.2016264,27.8,76,0.7
+1331370,21-09-2022,"Amini Park, Port Moresby",Port Moresby,2,Papua New Guinea,153,44.5,-9.4733843,147.2016264,25.5,93,0.7
+1336052,08-09-2023,"Sophia Gardens, Cardiff",Cardiff,1,England,291,50.8,51.485159,-3.1904734,26.6,64,0
+1336052,08-09-2023,"Sophia Gardens, Cardiff",Cardiff,2,New Zealand,297,47.3,51.485159,-3.1904734,22.2,85,0
+1336053,10-09-2023,"The Rose Bowl, Southampton",Southampton,1,England,226,35.2,50.9025349,-1.404189,25,62,0.2
+1336053,10-09-2023,"The Rose Bowl, Southampton",Southampton,2,New Zealand,147,27.5,50.9025349,-1.404189,19,96,0.2
+1336054,13-09-2023,"Kennington Oval, London",London,1,England,368,50.2,51.4821031,-0.1117327,19.6,57,0.1
+1336054,13-09-2023,"Kennington Oval, London",London,2,New Zealand,187,40.2,51.4821031,-0.1117327,16.3,76,0.1
+1336055,15-09-2023,"Lord's, London",London,1,England,311,51.2,51.5289277,-0.1715767,24.9,46,0
+1336055,15-09-2023,"Lord's, London",London,2,New Zealand,211,39.8,51.5289277,-0.1715767,19.4,66,0
+1336129,23-09-2023,"Trent Bridge, Nottingham",Nottingham,1,England,334,51.7,52.9384324,-1.1363421,15.5,56,0
+1336129,23-09-2023,"Trent Bridge, Nottingham",Nottingham,2,Ireland,286,49.2,52.9384324,-1.1363421,12.1,67,0
+1336130,26-09-2023,"County Ground, Bristol",Bristol,1,England,280,31.3,51.4770612,-2.5843087,18.9,75,2.3
+1339595,27-01-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,1,South Africa,298,51.3,-29.116395,26.215496,28,36,0
+1339595,27-01-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,2,England,271,45.5,-29.116395,26.215496,20.9,56,0
+1339596,29-01-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,1,England,342,52,-29.116395,26.215496,29.6,25,0.2
+1339596,29-01-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,2,South Africa,347,49.5,-29.116395,26.215496,23.8,39,0.2
+1339597,01-02-2023,"Diamond Oval, Kimberley",Kimberley,1,England,346,52,-28.742642,24.7967746,28.5,40,5.2
+1339597,01-02-2023,"Diamond Oval, Kimberley",Kimberley,2,South Africa,287,44.2,-28.742642,24.7967746,23.6,57,5.2
+1339602,18-03-2023,"Buffalo Park, East London",East London,1,West Indies,335,52.2,-33.0069427,27.9191899,23.8,70,0
+1339602,18-03-2023,"Buffalo Park, East London",East London,2,South Africa,287,42.7,-33.0069427,27.9191899,20.4,86,0
+1339603,21-03-2023,"Senwes Park, Potchefstroom",Potchefstroom,1,West Indies,260,50.2,-26.6954244,27.1002894,26.7,38,0.4
+1339603,21-03-2023,"Senwes Park, Potchefstroom",Potchefstroom,2,South Africa,264,31.3,-26.6954244,27.1002894,20.8,59,0.4
+1339607,31-03-2023,"Willowmoore Park, Benoni",Benoni,1,Netherlands,189,47.2,-26.1961933,28.317979,16.1,69,2.9
+1339607,31-03-2023,"Willowmoore Park, Benoni",Benoni,2,South Africa,190,31,-26.1961933,28.317979,12.2,86,2.9
+1339608,02-04-2023,"The Wanderers Stadium, Johannesburg",Johannesburg,1,South Africa,370,52,-26.205,28.049722,21.7,51,0.8
+1339608,02-04-2023,"The Wanderers Stadium, Johannesburg",Johannesburg,2,Netherlands,224,40.8,-26.205,28.049722,15.9,74,0.8
+1339611,09-01-2023,"National Stadium, Karachi",Karachi,1,New Zealand,255,50.3,24.8952212,67.0816725,25.8,51,0
+1339611,09-01-2023,"National Stadium, Karachi",Karachi,2,Pakistan,258,48.3,24.8952212,67.0816725,20.7,84,0
+1339612,11-01-2023,"National Stadium, Karachi",Karachi,1,New Zealand,261,51.5,24.8952212,67.0816725,25.5,60,0.5
+1339612,11-01-2023,"National Stadium, Karachi",Karachi,2,Pakistan,182,43.8,24.8952212,67.0816725,22.1,87,0.5
+1339613,13-01-2023,"National Stadium, Karachi",Karachi,1,Pakistan,280,50.3,24.8952212,67.0816725,22.4,7,0
+1339613,13-01-2023,"National Stadium, Karachi",Karachi,2,New Zealand,281,49.5,24.8952212,67.0816725,15.8,12,0
+1339619,27-04-2023,Rawalpindi Cricket Stadium,Rawalpindi,1,New Zealand,288,50.3,33.6511816,73.07598,26,40,1.5
+1339619,27-04-2023,Rawalpindi Cricket Stadium,Rawalpindi,2,Pakistan,291,49.2,33.6511816,73.07598,22.2,40,1.5
+1339620,29-04-2023,Rawalpindi Cricket Stadium,Rawalpindi,1,New Zealand,336,51,33.6511816,73.07598,31.1,26,0
+1339620,29-04-2023,Rawalpindi Cricket Stadium,Rawalpindi,2,Pakistan,337,49.2,33.6511816,73.07598,24.2,43,0
+1339621,03-05-2023,"National Stadium, Karachi",Karachi,1,Pakistan,287,51.3,24.8952212,67.0816725,32.2,52,0
+1339621,03-05-2023,"National Stadium, Karachi",Karachi,2,New Zealand,261,49.8,24.8952212,67.0816725,27.6,77,0
+1339622,05-05-2023,"National Stadium, Karachi",Karachi,1,Pakistan,334,51,24.8952212,67.0816725,33.1,53,0
+1339622,05-05-2023,"National Stadium, Karachi",Karachi,2,New Zealand,232,44.7,24.8952212,67.0816725,27.3,76,0
+1339623,07-05-2023,"National Stadium, Karachi",Karachi,1,New Zealand,299,49.7,24.8952212,67.0816725,34.8,46,0
+1339623,07-05-2023,"National Stadium, Karachi",Karachi,2,Pakistan,252,46.7,24.8952212,67.0816725,27.5,84,0
+1340845,04-12-2022,"Shere Bangla National Stadium, Mirpur",Dhaka,1,India,186,42.2,23.7643863,90.3890144,27.2,50,0
+1340845,04-12-2022,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,187,47.3,23.7643863,90.3890144,21.1,75,0
+1340846,07-12-2022,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,271,51.5,23.7643863,90.3890144,26.6,47,0
+1340846,07-12-2022,"Shere Bangla National Stadium, Mirpur",Dhaka,2,India,266,51.8,23.7643863,90.3890144,19.8,72,0
+1340847,10-12-2022,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,India,409,50.7,22.3558568,91.7677503,26.4,53,0
+1340847,10-12-2022,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2,Bangladesh,182,34.7,22.3558568,91.7677503,19.9,80,0
+1341969,19-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Papua New Guinea,107,39.3,-22.5776104,17.0772739,29.5,17,0
+1341969,19-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,108,15.8,-22.5776104,17.0772739,24.8,26,0
+1341970,20-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United States of America,244,51.2,-22.5776104,17.0772739,30.5,17,0
+1341970,20-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,173,44.8,-22.5776104,17.0772739,26.4,25,0
+1341971,22-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Papua New Guinea,149,48.7,-22.5776104,17.0772739,30.7,19,0
+1341971,22-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,2,United States of America,152,31.7,-22.5776104,17.0772739,23.9,27,0
+1341972,23-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Papua New Guinea,236,50,-22.5776104,17.0772739,30.7,15,0
+1341972,23-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,241,50.2,-22.5776104,17.0772739,25.4,11,0
+1341973,25-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United States of America,266,51.5,-22.5776104,17.0772739,32.8,10,0
+1341973,25-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Papua New Guinea,231,48.7,-22.5776104,17.0772739,28.6,15,0
+1341974,26-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United States of America,211,50.8,-22.5776104,17.0772739,33.2,12,0
+1341974,26-11-2022,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,212,45,-22.5776104,17.0772739,26.7,15,0
+1341975,01-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,1,Namibia,211,51.2,-22.5776104,17.0772739,31.1,17,0
+1341975,01-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,2,Scotland,213,43.3,-22.5776104,17.0772739,27.3,25,0
+1341976,02-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,1,Nepal,197,51,-22.5776104,17.0772739,27.6,38,1
+1341976,02-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,2,Namibia,4,0.7,-22.5776104,17.0772739,25.4,35,1
+1341977,04-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,1,Nepal,137,40.5,-22.5776104,17.0772739,31.9,13,0
+1341977,04-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,2,Scotland,143,32.8,-22.5776104,17.0772739,27.3,17,0
+1341978,05-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,1,Scotland,208,50.8,-22.5776104,17.0772739,32.4,10,0
+1341978,05-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,2,Namibia,210,45.7,-22.5776104,17.0772739,24.2,10,0
+1341979,07-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,1,Namibia,275,50.3,-22.5776104,17.0772739,30.3,4,0
+1341979,07-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,2,Nepal,189,48.2,-22.5776104,17.0772739,24.9,6,0
+1341980,08-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,1,Nepal,119,36.2,-22.5776104,17.0772739,31.5,6,0
+1341980,08-12-2022,"United Cricket Club Ground, Windhoek",Windhoek,2,Scotland,121,17.3,-22.5776104,17.0772739,25.3,9,0
+1343683,14-11-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,263,51.7,19.2200292,84.8357446,28,53,0
+1343683,14-11-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,179,51.5,19.2200292,84.8357446,24.6,66,0
+1343684,16-11-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,191,44.2,19.2200292,84.8357446,27.3,56,0
+1343684,16-11-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,193,49,19.2200292,84.8357446,25.8,61,0
+1343685,18-11-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,176,52,19.2200292,84.8357446,28.1,44,0
+1343685,18-11-2022,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,180,41.3,19.2200292,84.8357446,22.5,67,0
+1348326,18-01-2023,Harare Sports Club,Harare,1,Ireland,288,51.3,-17.8136915,31.0504604,21.6,74,2.3
+1348326,18-01-2023,Harare Sports Club,Harare,2,Zimbabwe,214,38.5,-17.8136915,31.0504604,17.2,96,2.3
+1348327,21-01-2023,Harare Sports Club,Harare,1,Ireland,294,53.5,-17.8136915,31.0504604,22.5,68,4.5
+1348327,21-01-2023,Harare Sports Club,Harare,2,Zimbabwe,248,48,-17.8136915,31.0504604,17,94,4.5
+1348328,23-01-2023,Harare Sports Club,Harare,1,Zimbabwe,55,13.3,-17.8136915,31.0504604,21.4,76,11.9
+1348643,10-01-2023,"Barsapara Cricket Stadium, Guwahati",Guwahati,1,India,373,50.8,26.1805978,91.753943,23.5,59,0
+1348643,10-01-2023,"Barsapara Cricket Stadium, Guwahati",Guwahati,2,Sri Lanka,306,51.3,26.1805978,91.753943,19.2,80,0
+1348644,12-01-2023,"Eden Gardens, Kolkata",Kolkata,1,Sri Lanka,215,40.7,22.5646093,88.3423371,25.1,43,0
+1348644,12-01-2023,"Eden Gardens, Kolkata",Kolkata,2,India,219,45.8,22.5646093,88.3423371,17.1,70,0
+1348645,15-01-2023,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,1,India,390,50.8,8.5723164,76.8847502,29.8,52,0
+1348645,15-01-2023,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,2,Sri Lanka,73,22.5,8.5723164,76.8847502,25.2,76,0
+1348646,18-01-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,India,349,51.8,17.4059481,78.5505638,29.4,28,0
+1348646,18-01-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2,New Zealand,337,51.7,17.4059481,78.5505638,21.4,49,0
+1348647,21-01-2023,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,1,New Zealand,108,35.3,21.2380912,81.6336993,28.9,34,0
+1348647,21-01-2023,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,2,India,111,20.2,21.2380912,81.6336993,20.5,59,0
+1348648,24-01-2023,"Holkar Cricket Stadium, Indore",Indore,1,India,385,51,22.7242512,75.8796703,25.8,43,0
+1348648,24-01-2023,"Holkar Cricket Stadium, Indore",Indore,2,New Zealand,295,42.8,22.7242512,75.8796703,18.1,67,0
+1348656,17-03-2023,"Wankhede Stadium, Mumbai",Mumbai,1,Australia,188,36.2,18.9385497,72.8257408,28.5,65,1.1
+1348656,17-03-2023,"Wankhede Stadium, Mumbai",Mumbai,2,India,191,41.7,18.9385497,72.8257408,26.8,83,1.1
+1348657,19-03-2023,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,1,India,117,28,17.6935526,83.2921297,25.6,74,19.3
+1348657,19-03-2023,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,2,Australia,121,11.7,17.6935526,83.2921297,24.3,83,19.3
+1348658,22-03-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,Australia,269,49.7,13.0627521,80.2784304,29.5,75,2.1
+1348658,22-03-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,India,248,50.5,13.0627521,80.2784304,27.6,89,2.1
+1351397,01-03-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,209,50,23.7643863,90.3890144,30.8,34,0
+1351397,01-03-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,2,England,212,49,23.7643863,90.3890144,27.5,39,0
+1351398,03-03-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,1,England,326,50.8,23.7643863,90.3890144,32.3,29,0
+1351398,03-03-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,194,45,23.7643863,90.3890144,24,53,0
+1351399,06-03-2023,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,Bangladesh,246,49.5,22.3558568,91.7677503,30,48,0
+1351399,06-03-2023,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2,England,196,43.8,22.3558568,91.7677503,25.8,73,0
+1355717,18-03-2023,Sylhet International Cricket Stadium,Sylhet,1,Bangladesh,338,51.3,24.9209101,91.8685606,26.8,67,2.4
+1355717,18-03-2023,Sylhet International Cricket Stadium,Sylhet,2,Ireland,155,31.8,24.9209101,91.8685606,23.5,77,2.4
+1355718,20-03-2023,Sylhet International Cricket Stadium,Sylhet,1,Bangladesh,349,51,24.9209101,91.8685606,24.4,71,16.4
+1355719,23-03-2023,Sylhet International Cricket Stadium,Sylhet,1,Ireland,101,28.8,24.9209101,91.8685606,27.5,59,3.6
+1355719,23-03-2023,Sylhet International Cricket Stadium,Sylhet,2,Bangladesh,102,14.2,24.9209101,91.8685606,20,86,3.6
+1358073,14-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Namibia,285,50.7,19.2200292,84.8357446,26.7,52,0
+1358073,14-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,287,49.3,19.2200292,84.8357446,22.6,77,0
+1358074,15-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Namibia,153,41.2,19.2200292,84.8357446,27.6,52,0
+1358074,15-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Scotland,157,22.5,19.2200292,84.8357446,24.1,71,0
+1358075,17-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,274,51,19.2200292,84.8357446,27.4,65,0.2
+1358075,17-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,275,49.3,19.2200292,84.8357446,25.1,77,0.2
+1358076,18-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Namibia,274,51.8,19.2200292,84.8357446,27,67,0
+1358076,18-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,278,49.8,19.2200292,84.8357446,25.2,78,0
+1358077,20-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,221,49.3,19.2200292,84.8357446,28.4,72,0
+1358077,20-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Namibia,178,39.8,19.2200292,84.8357446,25.3,88,0
+1358078,21-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,212,46.3,19.2200292,84.8357446,29.5,64,0
+1358078,21-02-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,213,45.8,19.2200292,84.8357446,25.6,81,0
+1358079,23-02-2023,Dubai International Cricket Stadium,Dubai,1,Namibia,91,31.7,25.0467384,55.219007,26.8,28,0
+1358079,23-02-2023,Dubai International Cricket Stadium,Dubai,2,United Arab Emirates,95,33.8,25.0467384,55.219007,21.4,83,0
+1358080,25-02-2023,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,166,53.7,25.0467384,55.219007,29.9,38,0
+1358080,25-02-2023,Dubai International Cricket Stadium,Dubai,2,Namibia,167,30,25.0467384,55.219007,24.3,59,0
+1358082,28-02-2023,Dubai International Cricket Stadium,Dubai,1,Papua New Guinea,262,51,25.0467384,55.219007,28.5,39,0
+1358082,28-02-2023,Dubai International Cricket Stadium,Dubai,2,United Arab Emirates,131,35.2,25.0467384,55.219007,23.7,68,0
+1358083,02-03-2023,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,207,50.7,25.0467384,55.219007,26.2,48,0.5
+1358083,02-03-2023,Dubai International Cricket Stadium,Dubai,2,Nepal,139,33,25.0467384,55.219007,23.2,75,0.5
+1358084,03-03-2023,Dubai International Cricket Stadium,Dubai,1,Papua New Guinea,179,50,25.0467384,55.219007,25.5,66,0
+1358084,03-03-2023,Dubai International Cricket Stadium,Dubai,2,Nepal,182,49.5,25.0467384,55.219007,23.1,82,0
+1358085,05-03-2023,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,97,27.5,25.0467384,55.219007,26,49,0
+1358085,05-03-2023,Dubai International Cricket Stadium,Dubai,2,Papua New Guinea,98,27.3,25.0467384,55.219007,22.8,71,0
+1358086,06-03-2023,Dubai International Cricket Stadium,Dubai,1,Nepal,229,50.3,25.0467384,55.219007,28,30,0
+1358086,06-03-2023,Dubai International Cricket Stadium,Dubai,2,United Arab Emirates,187,45.7,25.0467384,55.219007,22.5,75,0
+1358087,09-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,297,50.8,19.2200292,84.8357446,28.5,69,0
+1358087,09-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Papua New Guinea,245,48.2,19.2200292,84.8357446,25.1,87,0
+1358088,10-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Papua New Guinea,246,50,19.2200292,84.8357446,29.1,56,0
+1358088,10-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United Arab Emirates,190,45,19.2200292,84.8357446,25.6,81,0
+1358089,12-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,248,50.2,19.2200292,84.8357446,29.5,59,0
+1358089,12-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United Arab Emirates,71,22.8,19.2200292,84.8357446,26.2,75,0
+1358090,13-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Papua New Guinea,95,32.3,19.2200292,84.8357446,30.4,54,0
+1358090,13-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,100,8,19.2200292,84.8357446,26.2,85,0
+1358091,15-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Papua New Guinea,234,51.2,19.2200292,84.8357446,29,68,0
+1358091,15-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United Arab Emirates,236,39.8,19.2200292,84.8357446,26.5,89,0
+1358092,16-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,310,51.8,19.2200292,84.8357446,29.5,70,0
+1358092,16-03-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,269,45.2,19.2200292,84.8357446,27,84,0
+1362379,21-03-2023,Harare Sports Club,Harare,1,Zimbabwe,249,50,-17.8136915,31.0504604,26.2,33,0
+1362379,21-03-2023,Harare Sports Club,Harare,2,Netherlands,255,50.5,-17.8136915,31.0504604,19.9,60,0
+1362380,23-03-2023,Harare Sports Club,Harare,1,Zimbabwe,271,50,-17.8136915,31.0504604,24.9,53,2.7
+1362380,23-03-2023,Harare Sports Club,Harare,2,Netherlands,270,50.7,-17.8136915,31.0504604,19.2,79,2.7
+1362381,25-03-2023,Harare Sports Club,Harare,1,Netherlands,231,50.5,-17.8136915,31.0504604,25.7,42,0.1
+1362381,25-03-2023,Harare Sports Club,Harare,2,Zimbabwe,235,42.7,-17.8136915,31.0504604,20.5,65,0.1
+1364124,09-05-2023,"County Ground, Chelmsford",Chelmsford,1,Bangladesh,246,51.7,51.7315576,0.4689649,17.7,71,17.6
+1364124,09-05-2023,"County Ground, Chelmsford",Chelmsford,2,Ireland,65,16.8,51.7315576,0.4689649,13.4,89,17.6
+1364125,12-05-2023,"County Ground, Chelmsford",Chelmsford,1,Ireland,319,45.7,51.7315576,0.4689649,12.1,86,2.7
+1364125,12-05-2023,"County Ground, Chelmsford",Chelmsford,2,Bangladesh,320,46,51.7315576,0.4689649,11.7,85,2.7
+1365092,26-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United States of America,231,51.5,-22.5776104,17.0772739,29,16,0
+1365092,26-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,151,42.5,-22.5776104,17.0772739,25.4,25,0
+1365093,27-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United Arab Emirates,260,51.2,-22.5776104,17.0772739,28.5,23,0
+1365093,27-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Papua New Guinea,239,51.5,-22.5776104,17.0772739,25.4,28,0
+1365095,29-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Canada,198,51,-22.5776104,17.0772739,28.3,22,0
+1365095,29-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,United States of America,172,48.7,-22.5776104,17.0772739,24.3,29,0
+1365097,30-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Jersey,213,50.8,-22.5776104,17.0772739,29.1,8,0
+1365097,30-03-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,216,32.8,-22.5776104,17.0772739,22.9,12,0
+1365098,30-03-2023,"United Cricket Club Ground, Windhoek",Windhoek,1,United Arab Emirates,279,50.5,-22.5776104,17.0772739,29.1,8,0
+1365098,30-03-2023,"United Cricket Club Ground, Windhoek",Windhoek,2,United States of America,281,51.3,-22.5776104,17.0772739,22.9,12,0
+1365099,01-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Canada,254,50.2,-22.5776104,17.0772739,30,9,0
+1365099,01-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,United Arab Emirates,255,50.3,-22.5776104,17.0772739,24.6,15,0
+1365100,01-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,1,Jersey,291,50.3,-22.5776104,17.0772739,30,9,0
+1365100,01-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,2,Papua New Guinea,280,51,-22.5776104,17.0772739,24.6,15,0
+1365101,02-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United States of America,235,50.7,-22.5776104,17.0772739,29.3,12,0
+1365101,02-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Papua New Guinea,118,35,-22.5776104,17.0772739,25.2,17,0
+1365102,02-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,1,United Arab Emirates,267,51.3,-22.5776104,17.0772739,29.3,12,0
+1365102,02-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,2,Namibia,239,49.7,-22.5776104,17.0772739,25.2,17,0
+1365103,04-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Namibia,267,52,-22.5776104,17.0772739,29,18,0
+1365103,04-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Canada,156,43,-22.5776104,17.0772739,25.9,19,0
+1365104,04-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,1,United States of America,231,51.3,-22.5776104,17.0772739,29,18,0
+1365104,04-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,2,Jersey,206,49,-22.5776104,17.0772739,25.9,19,0
+1365105,05-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United Arab Emirates,284,52.2,-22.5776104,17.0772739,29.5,17,0
+1365105,05-04-2023,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Jersey,218,46,-22.5776104,17.0772739,26.3,17,0
+1365106,05-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,1,Canada,218,51.5,-22.5776104,17.0772739,29.5,17,0
+1365106,05-04-2023,"United Cricket Club Ground, Windhoek",Windhoek,2,Papua New Guinea,128,37.7,-22.5776104,17.0772739,26.3,17,0
+1365552,14-05-2023,"County Ground, Chelmsford",Chelmsford,1,Bangladesh,274,50.8,51.7315576,0.4689649,17.1,63,0.4
+1365552,14-05-2023,"County Ground, Chelmsford",Chelmsford,2,Ireland,269,51.5,51.7315576,0.4689649,15.5,81,0.4
+1367985,21-04-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,310,51.7,19.2200292,84.8357446,32.8,62,0
+1367985,21-04-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Oman,226,47.5,19.2200292,84.8357446,28.6,75,0
+1368000,29-04-2023,Mulpani Cricket Ground,Kathmandu,1,United Arab Emirates,236,50.5,27.718808,85.3912905,23.4,40,0
+1368000,29-04-2023,Mulpani Cricket Ground,Kathmandu,2,Oman,190,43.5,27.718808,85.3912905,16.8,80,0
+1368002,01-05-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,117,34.7,19.2200292,84.8357446,26.1,78,4.8
+1368002,01-05-2023,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,118,30.7,19.2200292,84.8357446,25.4,84,4.8
+1373571,07-09-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,1,South Africa,222,50.3,-29.116395,26.215496,22.6,10,0
+1373571,07-09-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,2,Australia,225,43,-29.116395,26.215496,13.8,18,0
+1373572,09-09-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,1,Australia,392,51.5,-29.116395,26.215496,30.8,8,0
+1373572,09-09-2023,"Mangaung Oval, Bloemfontein",Bloemfontein,2,South Africa,269,42.2,-29.116395,26.215496,21.6,15,0
+1373573,12-09-2023,"Sedgars Park, Potchefstroom",Potchefstroom,1,South Africa,338,51.5,-26.707778,27.095833,17.3,36,0
+1373573,12-09-2023,"Sedgars Park, Potchefstroom",Potchefstroom,2,Australia,227,35.3,-26.707778,27.095833,13.9,46,0
+1373574,15-09-2023,"SuperSport Park, Centurion",Centurion,1,South Africa,416,51.8,-25.8596237,28.1956445,27.7,19,0
+1373574,15-09-2023,"SuperSport Park, Centurion",Centurion,2,Australia,252,36.3,-25.8596237,28.1956445,20,30,0
+1373575,17-09-2023,"The Wanderers Stadium, Johannesburg",Johannesburg,1,South Africa,315,51.3,-26.205,28.049722,24.5,8,0
+1373575,17-09-2023,"The Wanderers Stadium, Johannesburg",Johannesburg,2,Australia,193,34.7,-26.205,28.049722,15.9,15,0
+1373576,03-12-2023,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,1,England,325,50.8,18.5008483,-64.3745541,27,73,0.1
+1373576,03-12-2023,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2,West Indies,326,50.3,18.5008483,-64.3745541,28,69,0.1
+1373577,06-12-2023,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,1,West Indies,202,40.5,18.5008483,-64.3745541,27.8,74,0.1
+1373577,06-12-2023,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2,England,206,33.2,18.5008483,-64.3745541,27.5,76,0.1
+1373578,09-12-2023,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,England,206,41,13.0977832,-59.6184184,28.4,67,1.8
+1373578,09-12-2023,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,West Indies,191,32.3,13.0977832,-59.6184184,26.2,76,1.8
+1375847,02-02-2024,Melbourne Cricket Ground,Melbourne,1,West Indies,231,49.7,-37.819909,144.983225,19.6,56,0
+1375847,02-02-2024,Melbourne Cricket Ground,Melbourne,2,Australia,232,39.3,-37.819909,144.983225,16.7,65,0
+1375848,04-02-2024,Sydney Cricket Ground,Sydney,1,Australia,258,51.3,-33.8914241,151.2247484,29.7,62,0
+1375848,04-02-2024,Sydney Cricket Ground,Sydney,2,West Indies,175,43.8,-33.8914241,151.2247484,26.2,83,0
+1375849,06-02-2024,"Manuka Oval, Canberra",Canberra,1,West Indies,86,25.5,-35.3179532,149.1347561,22.5,72,13.9
+1375849,06-02-2024,"Manuka Oval, Canberra",Canberra,2,Australia,87,7.3,-35.3179532,149.1347561,16.6,75,13.9
+1377005,04-06-2023,Sharjah Cricket Stadium,Sharjah,1,United Arab Emirates,202,49,25.3308493,55.4208718,35,55,0
+1377005,04-06-2023,Sharjah Cricket Stadium,Sharjah,2,West Indies,206,35.8,25.3308493,55.4208718,31.5,61,0
+1377006,06-06-2023,Sharjah Cricket Stadium,Sharjah,1,West Indies,306,50.8,25.3308493,55.4208718,36.7,37,0
+1377006,06-06-2023,Sharjah Cricket Stadium,Sharjah,2,United Arab Emirates,228,51.5,25.3308493,55.4208718,33.5,50,0
+1377007,09-06-2023,Sharjah Cricket Stadium,Sharjah,1,United Arab Emirates,184,37.3,25.3308493,55.4208718,36.7,39,0
+1377007,09-06-2023,Sharjah Cricket Stadium,Sharjah,2,West Indies,185,36.5,25.3308493,55.4208718,32.2,58,0
+1377746,18-06-2023,Harare Sports Club,Harare,1,Nepal,290,51.5,-17.8136915,31.0504604,23.6,25,0
+1377746,18-06-2023,Harare Sports Club,Harare,2,Zimbabwe,291,45.3,-17.8136915,31.0504604,15.2,42,0
+1377747,18-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,West Indies,297,51.2,-17.8876142,30.9904688,25,20,0
+1377747,18-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,United States of America,258,52,-17.8876142,30.9904688,15.7,39,0
+1377748,19-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Sri Lanka,355,50.8,-20.1450755,28.5879876,25,17,0
+1377748,19-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,United Arab Emirates,180,39.3,-20.1450755,28.5879876,17.5,23,0
+1377749,19-06-2023,Bulawayo Athletic Club,Bulawayo,1,Ireland,281,51.2,-20.1644299,28.5937679,25,17,0
+1377749,19-06-2023,Bulawayo Athletic Club,Bulawayo,2,Oman,285,49.5,-20.1644299,28.5937679,17.5,23,0
+1377750,20-06-2023,Harare Sports Club,Harare,1,Netherlands,315,52.5,-17.8136915,31.0504604,24.8,13,0
+1377750,20-06-2023,Harare Sports Club,Harare,2,Zimbabwe,319,41.7,-17.8136915,31.0504604,17,22,0
+1377751,20-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,United States of America,207,50,-17.8876142,30.9904688,25.1,13,0
+1377751,20-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Nepal,211,44.5,-17.8876142,30.9904688,17,22,0
+1377752,21-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Ireland,286,52.3,-20.1450755,28.5879876,24.6,12,0
+1377752,21-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Scotland,289,51,-20.1450755,28.5879876,17,27,0
+1377753,21-06-2023,Bulawayo Athletic Club,Bulawayo,1,United Arab Emirates,227,50.7,-20.1644299,28.5937679,24.6,12,0
+1377753,21-06-2023,Bulawayo Athletic Club,Bulawayo,2,Oman,228,47.2,-20.1644299,28.5937679,17,27,0
+1377754,22-06-2023,Harare Sports Club,Harare,1,West Indies,339,51.2,-17.8136915,31.0504604,23.5,13,0
+1377754,22-06-2023,Harare Sports Club,Harare,2,Nepal,238,51.8,-17.8136915,31.0504604,14.9,34,0
+1377755,22-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,United States of America,211,50.5,-17.8876142,30.9904688,23.8,13,0
+1377755,22-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Netherlands,214,43.7,-17.8876142,30.9904688,15.4,35,0
+1377756,23-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Oman,98,31.3,-20.1450755,28.5879876,20.1,42,0
+1377756,23-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Sri Lanka,100,15.2,-20.1450755,28.5879876,14.4,60,0
+1377757,23-06-2023,Bulawayo Athletic Club,Bulawayo,1,Scotland,282,51,-20.1644299,28.5937679,20.1,42,0
+1377757,23-06-2023,Bulawayo Athletic Club,Bulawayo,2,United Arab Emirates,171,35.5,-20.1644299,28.5937679,14.4,60,0
+1377758,24-06-2023,Harare Sports Club,Harare,1,Zimbabwe,268,51.8,-17.8136915,31.0504604,21.3,26,0
+1377758,24-06-2023,Harare Sports Club,Harare,2,West Indies,233,46.5,-17.8136915,31.0504604,13.2,50,0
+1377759,24-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,Nepal,167,45.8,-17.8876142,30.9904688,22.2,24,0
+1377759,24-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Netherlands,168,27.5,-17.8876142,30.9904688,14.2,43,0
+1377760,25-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Sri Lanka,325,52.5,-20.1450755,28.5879876,22.4,16,0
+1377760,25-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Ireland,192,31.5,-20.1450755,28.5879876,14.9,28,0
+1377761,25-06-2023,Bulawayo Athletic Club,Bulawayo,1,Scotland,320,50.8,-20.1644299,28.5937679,22.4,16,0
+1377761,25-06-2023,Bulawayo Athletic Club,Bulawayo,2,Oman,244,50.7,-20.1644299,28.5937679,14.9,28,0
+1377762,26-06-2023,Harare Sports Club,Harare,1,Zimbabwe,408,50.2,-17.8136915,31.0504604,19.5,23,0
+1377762,26-06-2023,Harare Sports Club,Harare,2,United States of America,104,26.8,-17.8136915,31.0504604,12.4,50,0
+1377763,26-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,West Indies,374,51,-17.8876142,30.9904688,20.4,22,0
+1377763,26-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Netherlands,374,51.2,-17.8876142,30.9904688,13.1,47,0
+1377764,27-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Sri Lanka,245,50.5,-20.1450755,28.5879876,22,23,0
+1377764,27-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Scotland,163,30,-20.1450755,28.5879876,13.2,44,0
+1377765,27-06-2023,Bulawayo Athletic Club,Bulawayo,1,Ireland,349,50.7,-20.1644299,28.5937679,22,23,0
+1377765,27-06-2023,Bulawayo Athletic Club,Bulawayo,2,United Arab Emirates,211,40.5,-20.1644299,28.5937679,13.2,44,0
+1377766,29-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Zimbabwe,332,50.7,-20.1450755,28.5879876,24,25,0
+1377766,29-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Oman,318,52.7,-20.1450755,28.5879876,17,42,0
+1377767,30-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Sri Lanka,213,49.5,-20.1450755,28.5879876,23.4,23,0
+1377767,30-06-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Netherlands,192,41,-20.1450755,28.5879876,16.7,34,0
+1377768,30-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,United States of America,196,43.5,-17.8876142,30.9904688,25.2,21,0
+1377768,30-06-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Ireland,197,34.5,-17.8876142,30.9904688,19,35,0
+1377769,01-07-2023,Harare Sports Club,Harare,1,West Indies,181,45.2,-17.8136915,31.0504604,22.4,23,0
+1377769,01-07-2023,Harare Sports Club,Harare,2,Scotland,185,44.3,-17.8136915,31.0504604,16.1,40,0
+1377770,02-07-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Zimbabwe,165,34.5,-20.1450755,28.5879876,22.2,29,0
+1377770,02-07-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Sri Lanka,169,34.2,-20.1450755,28.5879876,15.6,40,0
+1377771,02-07-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,United Arab Emirates,181,47.8,-17.8876142,30.9904688,20.1,28,0
+1377771,02-07-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Nepal,185,44.5,-17.8876142,30.9904688,14.4,44,0
+1377772,03-07-2023,Harare Sports Club,Harare,1,Netherlands,362,50.3,-17.8136915,31.0504604,18.3,40,0.4
+1377772,03-07-2023,Harare Sports Club,Harare,2,Oman,246,46.2,-17.8136915,31.0504604,14.1,57,0.4
+1377773,04-07-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Scotland,234,50.7,-20.1450755,28.5879876,20.5,30,0
+1377773,04-07-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Zimbabwe,203,42,-20.1450755,28.5879876,15.8,38,0
+1377774,04-07-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,Nepal,268,52.3,-17.8876142,30.9904688,18.5,38,0
+1377774,04-07-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,Ireland,269,51,-17.8876142,30.9904688,16,48,0
+1377775,05-07-2023,Harare Sports Club,Harare,1,Oman,221,51.7,-17.8136915,31.0504604,20.3,26,0
+1377775,05-07-2023,Harare Sports Club,Harare,2,West Indies,222,40.8,-17.8136915,31.0504604,14.2,40,0
+1377776,06-07-2023,"Queens Sports Club, Bulawayo",Bulawayo,1,Scotland,277,50.7,-20.1450755,28.5879876,19,30,0
+1377776,06-07-2023,"Queens Sports Club, Bulawayo",Bulawayo,2,Netherlands,278,44.5,-20.1450755,28.5879876,13,54,0
+1377777,06-07-2023,"Takashinga Sports Club, Highfield, Harare",Harare,1,United Arab Emirates,308,52.7,-17.8876142,30.9904688,20.5,26,0
+1377777,06-07-2023,"Takashinga Sports Club, Highfield, Harare",Harare,2,United States of America,307,51,-17.8876142,30.9904688,13.5,49,0
+1377778,07-07-2023,Harare Sports Club,Harare,1,West Indies,243,49.5,-17.8136915,31.0504604,19.6,34,0
+1377778,07-07-2023,Harare Sports Club,Harare,2,Sri Lanka,244,45.2,-17.8136915,31.0504604,13.6,54,0
+1377779,09-07-2023,Harare Sports Club,Harare,1,Sri Lanka,233,48.3,-17.8136915,31.0504604,21.4,26,0
+1377779,09-07-2023,Harare Sports Club,Harare,2,Netherlands,105,24.5,-17.8136915,31.0504604,15.8,41,0
+1381214,27-07-2023,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,West Indies,114,24.2,13.0977832,-59.6184184,29,74,2.7
+1381214,27-07-2023,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,India,118,23.5,13.0977832,-59.6184184,27.4,79,2.7
+1381215,29-07-2023,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,India,181,42.2,13.0977832,-59.6184184,29,72,2.8
+1381215,29-07-2023,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,West Indies,182,37.5,13.0977832,-59.6184184,26.2,87,2.8
+1381216,01-08-2023,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,India,351,51.3,41.9881533,-8.6079111,24.3,80,2.8
+1381216,01-08-2023,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,2,West Indies,151,36.5,41.9881533,-8.6079111,21.5,82,2.8
+1384392,05-10-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,England,282,50.7,23.0917717,72.5973345,32.8,49,0
+1384392,05-10-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,New Zealand,283,36.8,23.0917717,72.5973345,28.4,59,0
+1384393,06-10-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,Pakistan,286,50.3,17.4059481,78.5505638,31.9,36,0
+1384393,06-10-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2,Netherlands,205,42.5,17.4059481,78.5505638,23.5,62,0
+1384395,07-10-2023,"Arun Jaitley Stadium, Delhi",Delhi,1,South Africa,428,52.3,28.6377017,77.2431069,35,44,0
+1384395,07-10-2023,"Arun Jaitley Stadium, Delhi",Delhi,2,Sri Lanka,326,46.7,28.6377017,77.2431069,27.2,71,0
+1384396,08-10-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,Australia,199,50.5,13.0627521,80.2784304,30.6,77,0.1
+1384396,08-10-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,India,201,42.3,13.0627521,80.2784304,28,91,0.1
+1384397,09-10-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,New Zealand,322,50.7,17.4059481,78.5505638,32.5,37,0
+1384397,09-10-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2,Netherlands,223,46.8,17.4059481,78.5505638,26.2,67,0
+1384398,10-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,1,England,364,50.7,32.1975918,76.3250337,24.4,43,0
+1384398,10-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2,Bangladesh,227,48.8,32.1975918,76.3250337,19.3,47,0
+1384399,10-10-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,Sri Lanka,344,51.7,17.4059481,78.5505638,31.8,43,14.4
+1384399,10-10-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2,Pakistan,345,50.5,17.4059481,78.5505638,23,91,14.4
+1384401,12-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,South Africa,311,51.2,26.8112572,81.0167842,33,31,0
+1384401,12-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2,Australia,177,42.3,26.8112572,81.0167842,25.2,67,0
+1384402,13-10-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,Bangladesh,245,51.3,13.0627521,80.2784304,29.1,78,2.1
+1384402,13-10-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,New Zealand,248,44.5,13.0627521,80.2784304,27.6,88,2.1
+1384403,14-10-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,Pakistan,191,43,23.0917717,72.5973345,34.3,38,0
+1384403,14-10-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,India,192,30.7,23.0917717,72.5973345,28.1,55,0
+1384405,16-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,Sri Lanka,209,45,26.8112572,81.0167842,29.5,60,9.2
+1384405,16-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2,Australia,215,35.8,26.8112572,81.0167842,22.8,92,9.2
+1384406,17-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,1,Netherlands,245,46,32.1975918,76.3250337,16.1,70,0.5
+1384406,17-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2,South Africa,207,43.8,32.1975918,76.3250337,14.4,57,0.5
+1384408,19-10-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,1,Bangladesh,256,50.8,18.6737116,73.706379,30.4,44,0.1
+1384408,19-10-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,2,India,261,42.2,18.6737116,73.706379,22.6,77,0.1
+1384409,20-10-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,Australia,367,52.2,12.9788127,77.5995775,31,30,0
+1384409,20-10-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2,Pakistan,305,47.3,12.9788127,77.5995775,24.2,57,0
+1384410,21-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,Netherlands,262,53.2,26.8112572,81.0167842,29.8,37,0
+1384410,21-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2,Sri Lanka,263,49.5,26.8112572,81.0167842,21.5,63,0
+1384411,21-10-2023,"Wankhede Stadium, Mumbai",Mumbai,1,South Africa,399,51.7,18.9385497,72.8257408,33.8,43,0.1
+1384411,21-10-2023,"Wankhede Stadium, Mumbai",Mumbai,2,England,170,23,18.9385497,72.8257408,28.8,69,0.1
+1384412,22-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,1,New Zealand,273,51.2,32.1975918,76.3250337,20,50,0
+1384412,22-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2,India,274,48.7,32.1975918,76.3250337,15.7,69,0
+1384414,24-10-2023,"Wankhede Stadium, Mumbai",Mumbai,1,South Africa,382,51.2,18.9385497,72.8257408,32.8,55,0
+1384414,24-10-2023,"Wankhede Stadium, Mumbai",Mumbai,2,Bangladesh,233,49,18.9385497,72.8257408,28.6,69,0
+1384415,25-10-2023,"Arun Jaitley Stadium, Delhi",Delhi,1,Australia,399,52,28.6377017,77.2431069,30.4,29,0
+1384415,25-10-2023,"Arun Jaitley Stadium, Delhi",Delhi,2,Netherlands,90,22.2,28.6377017,77.2431069,22.2,60,0
+1384416,26-10-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,England,156,34,12.9788127,77.5995775,29.8,30,0
+1384416,26-10-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2,Sri Lanka,160,26.2,12.9788127,77.5995775,24.7,41,0
+1384417,27-10-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,Pakistan,270,49.2,13.0627521,80.2784304,30,66,1.4
+1384417,27-10-2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,South Africa,271,49,13.0627521,80.2784304,27.2,85,1.4
+1384418,28-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,1,Australia,388,50.7,32.1975918,76.3250337,20.4,59,0
+1384418,28-10-2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2,New Zealand,383,52.3,32.1975918,76.3250337,16.6,72,0
+1384419,28-10-2023,"Eden Gardens, Kolkata",Kolkata,1,Netherlands,229,51,22.5646093,88.3423371,29.1,55,0.2
+1384419,28-10-2023,"Eden Gardens, Kolkata",Kolkata,2,Bangladesh,142,43.3,22.5646093,88.3423371,26.4,70,0.2
+1384420,29-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,India,229,50.5,26.8112572,81.0167842,30.1,36,0
+1384420,29-10-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2,England,129,35.8,26.8112572,81.0167842,23,61,0
+1384422,31-10-2023,"Eden Gardens, Kolkata",Kolkata,1,Bangladesh,204,46,22.5646093,88.3423371,30.6,53,0
+1384422,31-10-2023,"Eden Gardens, Kolkata",Kolkata,2,Pakistan,205,32.8,22.5646093,88.3423371,26,78,0
+1384423,01-11-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,1,South Africa,357,51.3,18.6737116,73.706379,30.2,33,0
+1384423,01-11-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,2,New Zealand,167,36,18.6737116,73.706379,21.5,55,0
+1384424,02-11-2023,"Wankhede Stadium, Mumbai",Mumbai,1,India,357,51.5,18.9385497,72.8257408,32.3,46,0
+1384424,02-11-2023,"Wankhede Stadium, Mumbai",Mumbai,2,Sri Lanka,55,20.3,18.9385497,72.8257408,28.2,63,0
+1384426,04-11-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,New Zealand,401,52.3,12.9788127,77.5995775,24.4,75,4.8
+1384426,04-11-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2,Pakistan,200,26,12.9788127,77.5995775,20.9,95,4.8
+1384427,04-11-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,Australia,286,50.2,23.0917717,72.5973345,34.1,25,0
+1384427,04-11-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,England,253,49.5,23.0917717,72.5973345,24.5,49,0
+1384428,05-11-2023,"Eden Gardens, Kolkata",Kolkata,1,India,326,53.3,22.5646093,88.3423371,29.6,59,9.7
+1384428,05-11-2023,"Eden Gardens, Kolkata",Kolkata,2,South Africa,83,27.5,22.5646093,88.3423371,24.3,87,9.7
+1384429,06-11-2023,"Arun Jaitley Stadium, Delhi",Delhi,1,Sri Lanka,279,50.2,28.6377017,77.2431069,29.3,29,0
+1384429,06-11-2023,"Arun Jaitley Stadium, Delhi",Delhi,2,Bangladesh,282,42.8,28.6377017,77.2431069,19.9,73,0
+1384431,08-11-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,1,England,339,52.8,18.6737116,73.706379,30.3,51,1.6
+1384431,08-11-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,2,Netherlands,179,38,18.6737116,73.706379,22,94,1.6
+1384432,09-11-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,Sri Lanka,171,47.2,12.9788127,77.5995775,23.6,80,6.4
+1384432,09-11-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2,New Zealand,172,23.7,12.9788127,77.5995775,21.6,83,6.4
+1384434,11-11-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,1,Bangladesh,306,51.7,18.6737116,73.706379,30.7,45,0
+1384434,11-11-2023,"Maharashtra Cricket Association Stadium, Pune",Pune,2,Australia,307,45.3,18.6737116,73.706379,22.7,73,0
+1384435,11-11-2023,"Eden Gardens, Kolkata",Kolkata,1,England,337,50.7,22.5646093,88.3423371,29.6,51,0
+1384435,11-11-2023,"Eden Gardens, Kolkata",Kolkata,2,Pakistan,244,44.3,22.5646093,88.3423371,23.9,76,0
+1384436,12-11-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,India,410,52.3,12.9788127,77.5995775,27,51,0
+1384436,12-11-2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2,Netherlands,250,48.5,12.9788127,77.5995775,20,68,0
+1384437,15-11-2023,"Wankhede Stadium, Mumbai",Mumbai,1,India,397,51,18.9385497,72.8257408,31.6,48,0
+1384437,15-11-2023,"Wankhede Stadium, Mumbai",Mumbai,2,New Zealand,327,50.8,18.9385497,72.8257408,27.5,72,0
+1384438,16-11-2023,"Eden Gardens, Kolkata",Kolkata,1,South Africa,212,50.8,22.5646093,88.3423371,24.1,95,13.4
+1384438,16-11-2023,"Eden Gardens, Kolkata",Kolkata,2,Australia,215,49.7,22.5646093,88.3423371,22.8,93,13.4
+1384439,19-11-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,India,240,51.2,23.0917717,72.5973345,32.5,31,0
+1384439,19-11-2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,Australia,241,43.7,23.0917717,72.5973345,25.9,43,0
+1385700,19-09-2024,"Trent Bridge, Nottingham",Nottingham,1,England,315,51.2,52.9384324,-1.1363421,20.3,62,0
+1385700,19-09-2024,"Trent Bridge, Nottingham",Nottingham,2,Australia,317,45,52.9384324,-1.1363421,14.4,88,0
+1385701,21-09-2024,"Headingley, Leeds",Leeds,1,Australia,270,46.3,53.8210076,-1.5777737,19.5,67,0.1
+1385701,21-09-2024,"Headingley, Leeds",Leeds,2,England,202,42.3,53.8210076,-1.5777737,14.7,88,0.1
+1385702,24-09-2024,"Riverside Ground, Chester-le-Street",Chester-le-Street,1,Australia,304,51.5,54.8496667,-1.5609563,13.9,64,1.4
+1385702,24-09-2024,"Riverside Ground, Chester-le-Street",Chester-le-Street,2,England,254,39.5,54.8496667,-1.5609563,9.9,84,1.4
+1385703,27-09-2024,"Lord's, London",London,1,England,312,40.3,51.5289277,-0.1715767,12.1,73,2.9
+1385703,27-09-2024,"Lord's, London",London,2,Australia,126,26.2,51.5289277,-0.1715767,9.1,69,2.9
+1385704,29-09-2024,"County Ground, Bristol",Bristol,1,England,309,49.7,51.4770612,-2.5843087,13.3,67,19.3
+1385704,29-09-2024,"County Ground, Bristol",Bristol,2,Australia,165,21.2,51.4770612,-2.5843087,11.8,82,19.3
+1387600,17-12-2023,"The Wanderers Stadium, Johannesburg",Johannesburg,1,South Africa,116,29.2,-26.205,28.049722,26.4,39,0.4
+1387600,17-12-2023,"The Wanderers Stadium, Johannesburg",Johannesburg,2,India,117,17.3,-26.205,28.049722,19.8,66,0.4
+1387601,19-12-2023,"St George's Park, Gqeberha",Gqeberha,1,India,211,48.2,-33.9657696,25.6073323,22.9,62,0.1
+1387601,19-12-2023,"St George's Park, Gqeberha",Gqeberha,2,South Africa,215,43.5,-33.9657696,25.6073323,19.9,83,0.1
+1387602,21-12-2023,"Boland Park, Paarl",Paarl,1,India,296,51.8,-33.7406522,18.9974819,31.9,29,0
+1387602,21-12-2023,"Boland Park, Paarl",Paarl,2,South Africa,218,47.8,-33.7406522,18.9974819,25.7,42,0
+1388211,20-12-2023,"Saxton Oval, Nelson",Nelson,1,Bangladesh,291,50.7,-41.3309414,173.2128396,19.8,67,0
+1388211,20-12-2023,"Saxton Oval, Nelson",Nelson,2,New Zealand,296,47.5,-41.3309414,173.2128396,16.9,83,0
+1388212,23-12-2023,"McLean Park, Napier",Napier,1,New Zealand,98,32.2,-39.5018431,176.9125267,23.3,65,0.1
+1388212,23-12-2023,"McLean Park, Napier",Napier,2,Bangladesh,99,16.2,-39.5018431,176.9125267,20.3,70,0.1
+1388392,30-08-2023,Multan Cricket Stadium,Multan,1,Pakistan,342,51.5,30.170783,71.5247746,37.4,43,0
+1388392,30-08-2023,Multan Cricket Stadium,Multan,2,Nepal,104,24.3,30.170783,71.5247746,31.6,62,0
+1388393,31-08-2023,Pallekele International Cricket Stadium,Kandy,1,Bangladesh,164,43.5,7.2806408,80.7224634,27.7,73,6
+1388393,31-08-2023,Pallekele International Cricket Stadium,Kandy,2,Sri Lanka,165,40,7.2806408,80.7224634,23.3,97,6
+1388394,02-09-2023,Pallekele International Cricket Stadium,Kandy,1,India,266,50.7,7.2806408,80.7224634,26.8,73,0.8
+1388398,04-09-2023,Pallekele International Cricket Stadium,Kandy,1,Nepal,230,48.8,7.2806408,80.7224634,24.8,83,6.1
+1388398,04-09-2023,Pallekele International Cricket Stadium,Kandy,2,India,147,20.8,7.2806408,80.7224634,23.6,87,6.1
+1388401,06-09-2023,"Gaddafi Stadium, Lahore",Lahore,1,Bangladesh,193,39.2,31.5133615,74.3334644,37.5,35,0
+1388401,06-09-2023,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,194,39.8,31.5133615,74.3334644,32.7,51,0
+1388403,09-09-2023,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,257,51.5,6.9399983,79.8722901,27,81,14.7
+1388403,09-09-2023,"R Premadasa Stadium, Colombo",Colombo,2,Bangladesh,236,50.2,6.9399983,79.8722901,24.5,95,14.7
+1388406,10-09-2023,"R Premadasa Stadium, Colombo",Colombo,1,India,356,50.8,6.9399983,79.8722901,26.1,88,36.4
+1388406,10-09-2023,"R Premadasa Stadium, Colombo",Colombo,2,Pakistan,128,33,6.9399983,79.8722901,25.4,90,36.4
+1388407,12-09-2023,"R Premadasa Stadium, Colombo",Colombo,1,India,213,51.2,6.9399983,79.8722901,28.1,76,14.7
+1388407,12-09-2023,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,172,42.3,6.9399983,79.8722901,27.4,81,14.7
+1388410,14-09-2023,"R Premadasa Stadium, Colombo",Colombo,1,Pakistan,252,44.3,6.9399983,79.8722901,27.1,82,17.5
+1388410,14-09-2023,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,252,42.8,6.9399983,79.8722901,24.7,94,17.5
+1388412,15-09-2023,"R Premadasa Stadium, Colombo",Colombo,1,Bangladesh,265,51.2,6.9399983,79.8722901,28.4,78,2.9
+1388412,15-09-2023,"R Premadasa Stadium, Colombo",Colombo,2,India,259,51.5,6.9399983,79.8722901,26.4,88,2.9
+1388414,17-09-2023,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,50,15.8,6.9399983,79.8722901,28,77,11.3
+1388414,17-09-2023,"R Premadasa Stadium, Colombo",Colombo,2,India,51,6.2,6.9399983,79.8722901,25.6,91,11.3
+1389388,22-09-2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,1,Australia,276,50.3,30.7334421,76.7797143,31.9,56,0.1
+1389388,22-09-2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2,India,281,49.2,30.7334421,76.7797143,27.1,76,0.1
+1389389,24-09-2023,"Holkar Cricket Stadium, Indore",Indore,1,India,399,51.7,22.7242512,75.8796703,29.4,71,5.2
+1389389,24-09-2023,"Holkar Cricket Stadium, Indore",Indore,2,Australia,217,28.8,22.7242512,75.8796703,25,92,5.2
+1389390,27-09-2023,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,1,Australia,352,51.3,22.3627855,70.7100844,30.4,74,11.6
+1389390,27-09-2023,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2,India,286,50.5,22.3627855,70.7100844,26.4,95,11.6
+1395700,21-09-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,1,New Zealand,136,34.7,23.7643863,90.3890144,27.6,89,11.9
+1395701,23-09-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,1,New Zealand,254,50.5,23.7643863,90.3890144,27.8,85,14.5
+1395701,23-09-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,168,42,23.7643863,90.3890144,27.2,90,14.5
+1395702,26-09-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,171,35.5,23.7643863,90.3890144,33.3,60,0
+1395702,26-09-2023,"Shere Bangla National Stadium, Mirpur",Dhaka,2,New Zealand,175,35.2,23.7643863,90.3890144,29.2,83,0
+1408102,17-12-2023,"University Oval, Dunedin",Dunedin,1,New Zealand,239,31.3,-45.8656172,170.5256028,17.1,84,3.6
+1408102,17-12-2023,"University Oval, Dunedin",Dunedin,2,Bangladesh,200,31.2,-45.8656172,170.5256028,12.9,82,3.6
+1408106,13-12-2023,Harare Sports Club,Harare,1,Zimbabwe,121,25.8,-17.8136915,31.0504604,20.2,86,23.7
+1408107,15-12-2023,Harare Sports Club,Harare,1,Zimbabwe,166,44.2,-17.8136915,31.0504604,24.2,63,0
+1408107,15-12-2023,Harare Sports Club,Harare,2,Ireland,170,41,-17.8136915,31.0504604,20.9,79,0
+1408108,17-12-2023,Harare Sports Club,Harare,1,Zimbabwe,197,41.2,-17.8136915,31.0504604,21.7,81,6.8
+1408108,17-12-2023,Harare Sports Club,Harare,2,Ireland,204,38.8,-17.8136915,31.0504604,20,88,6.8
+1412539,06-01-2024,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,273,50.7,6.9399983,79.8722901,27.8,81,7.8
+1412539,06-01-2024,"R Premadasa Stadium, Colombo",Colombo,2,Zimbabwe,12,4,6.9399983,79.8722901,24.9,97,7.8
+1412540,08-01-2024,"R Premadasa Stadium, Colombo",Colombo,1,Zimbabwe,208,45.3,6.9399983,79.8722901,26.8,85,15.7
+1412540,08-01-2024,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,211,50,6.9399983,79.8722901,24.9,96,15.7
+1412541,11-01-2024,"R Premadasa Stadium, Colombo",Colombo,1,Zimbabwe,96,23.2,6.9399983,79.8722901,26.4,89,9.2
+1412541,11-01-2024,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,97,17.2,6.9399983,79.8722901,24.1,96,9.2
+1419827,13-03-2024,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,Sri Lanka,255,50.5,22.3558568,91.7677503,29.5,65,0
+1419827,13-03-2024,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2,Bangladesh,257,46.2,22.3558568,91.7677503,25.2,89,0
+1419828,15-03-2024,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,Bangladesh,286,51.2,22.3558568,91.7677503,30,62,0.2
+1419828,15-03-2024,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2,Sri Lanka,287,49,22.3558568,91.7677503,24.8,92,0.2
+1419829,18-03-2024,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,Sri Lanka,235,52,22.3558568,91.7677503,34.7,32,0
+1419829,18-03-2024,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2,Bangladesh,237,41.5,22.3558568,91.7677503,28,56,0
+1420220,08-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,224,51.8,19.2200292,84.8357446,26.5,74,2.1
+1420220,08-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Canada,217,49.5,19.2200292,84.8357446,23.6,90,2.1
+1420221,10-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Canada,285,51.2,19.2200292,84.8357446,25.9,59,0
+1420221,10-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,287,46.3,19.2200292,84.8357446,21.8,80,0
+1420222,12-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Canada,232,51.2,19.2200292,84.8357446,26.5,63,0
+1420222,12-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,229,44.8,19.2200292,84.8357446,21.9,86,0
+1420529,15-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,132,41.7,19.2200292,84.8357446,27,68,0
+1420529,15-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Namibia,134,33.7,19.2200292,84.8357446,22.6,93,0
+1420530,17-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Netherlands,137,39.7,19.2200292,84.8357446,27.9,74,0
+1420530,17-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,141,15.7,19.2200292,84.8357446,24.2,88,0
+1420531,19-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Namibia,123,36.2,19.2200292,84.8357446,29.1,65,0
+1420531,19-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Netherlands,124,27.7,19.2200292,84.8357446,26,73,0
+1420532,21-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,168,37.7,19.2200292,84.8357446,30.5,49,0
+1420532,21-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Namibia,172,40.7,19.2200292,84.8357446,27,57,0
+1420533,23-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Namibia,203,42.8,19.2200292,84.8357446,28.2,66,4.1
+1420533,23-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Netherlands,179,44.7,19.2200292,84.8357446,25.8,85,4.1
+1420534,25-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,172,51,19.2200292,84.8357446,28.4,65,0.3
+1420534,25-02-2024,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Netherlands,173,38,19.2200292,84.8357446,24.1,83,0.3
+1421069,28-02-2024,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,194,49,25.0467384,55.219007,23.1,58,0
+1421069,28-02-2024,Dubai International Cricket Stadium,Dubai,2,Canada,198,48.8,25.0467384,55.219007,21.4,70,0
+1421070,01-03-2024,Dubai International Cricket Stadium,Dubai,1,Scotland,215,50.7,25.0467384,55.219007,21.8,41,0
+1421070,01-03-2024,Dubai International Cricket Stadium,Dubai,2,Canada,220,42,25.0467384,55.219007,18.9,45,0
+1421071,03-03-2024,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,132,45.7,25.0467384,55.219007,22.9,37,0
+1421071,03-03-2024,Dubai International Cricket Stadium,Dubai,2,Scotland,137,24.2,25.0467384,55.219007,19.6,48,0
+1421072,05-03-2024,Dubai International Cricket Stadium,Dubai,1,Canada,241,51,25.0467384,55.219007,24.6,70,7.4
+1421072,05-03-2024,Dubai International Cricket Stadium,Dubai,2,United Arab Emirates,228,46.7,25.0467384,55.219007,20.2,88,7.4
+1421073,07-03-2024,Dubai International Cricket Stadium,Dubai,1,Scotland,197,48.8,25.0467384,55.219007,23.3,56,0
+1421073,07-03-2024,Dubai International Cricket Stadium,Dubai,2,Canada,200,46,25.0467384,55.219007,19.8,87,0
+1421074,04-05-2025,"VRA Ground, Amstelveen",Amstelveen,1,United Arab Emirates,225,50.5,52.3195895,4.8490418,11.4,60,0.4
+1421074,04-05-2025,"VRA Ground, Amstelveen",Amstelveen,2,Scotland,226,47.5,52.3195895,4.8490418,9.6,66,0.4
+1426549,04-11-2024,Melbourne Cricket Ground,Melbourne,1,Pakistan,203,47.3,-37.819909,144.983225,16.7,61,0.1
+1426549,04-11-2024,Melbourne Cricket Ground,Melbourne,2,Australia,204,35.5,-37.819909,144.983225,14.1,71,0.1
+1426550,08-11-2024,Adelaide Oval,Adelaide,1,Australia,163,36,-34.9155946,138.5961558,18.5,43,0.3
+1426550,08-11-2024,Adelaide Oval,Adelaide,2,Pakistan,169,27,-34.9155946,138.5961558,13.8,69,0.3
+1426551,10-11-2024,Perth Stadium,Perth,1,Australia,140,33.8,-31.9510448,115.8890756,23,44,0
+1426551,10-11-2024,Perth Stadium,Perth,2,Pakistan,143,27.5,-31.9510448,115.8890756,17,73,0
+1428956,16-07-2024,"Forthill, Dundee",Dundee,1,Oman,123,38.8,56.4748716,-2.8760079,17.2,87,5.3
+1428956,16-07-2024,"Forthill, Dundee",Dundee,2,Scotland,99,13,56.4748716,-2.8760079,16.1,96,5.3
+1428957,18-07-2024,"Forthill, Dundee",Dundee,1,Oman,233,52.3,56.4748716,-2.8760079,18.5,69,1.1
+1428957,18-07-2024,"Forthill, Dundee",Dundee,2,Namibia,234,48.5,56.4748716,-2.8760079,17,79,1.1
+1428958,20-07-2024,"Forthill, Dundee",Dundee,1,Scotland,290,51.7,56.4748716,-2.8760079,19.6,67,7.3
+1428958,20-07-2024,"Forthill, Dundee",Dundee,2,Namibia,235,45.7,56.4748716,-2.8760079,15.6,99,7.3
+1428959,22-07-2024,"Forthill, Dundee",Dundee,1,Oman,91,22.7,56.4748716,-2.8760079,15.6,82,0.5
+1428959,22-07-2024,"Forthill, Dundee",Dundee,2,Scotland,95,18.3,56.4748716,-2.8760079,14.2,91,0.5
+1428960,24-07-2024,"Forthill, Dundee",Dundee,1,Namibia,196,51,56.4748716,-2.8760079,17.6,74,0.1
+1428960,24-07-2024,"Forthill, Dundee",Dundee,2,Oman,197,49.8,56.4748716,-2.8760079,16.8,83,0.1
+1428961,26-07-2024,"Forthill, Dundee",Dundee,1,Scotland,301,51.2,56.4748716,-2.8760079,17.5,58,0.2
+1428961,26-07-2024,"Forthill, Dundee",Dundee,2,Namibia,163,41.2,56.4748716,-2.8760079,16,66,0.2
+1431088,02-10-2024,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,1,South Africa,271,51,24.395516,54.5410101,39.6,26,0
+1431088,02-10-2024,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,2,Ireland,132,32.5,24.395516,54.5410101,33.7,53,0
+1431089,04-10-2024,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,1,South Africa,343,50.8,24.395516,54.5410101,36.7,49,0
+1431089,04-10-2024,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,2,Ireland,169,32,24.395516,54.5410101,32.7,60,0
+1431090,07-10-2024,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,1,Ireland,284,51.3,24.395516,54.5410101,39.3,18,0
+1431090,07-10-2024,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,2,South Africa,215,47.7,24.395516,54.5410101,34.1,40,0
+1432214,17-12-2024,"Boland Park, Paarl",Paarl,1,South Africa,239,50.7,-33.7406522,18.9974819,23.2,39,0
+1432214,17-12-2024,"Boland Park, Paarl",Paarl,2,Pakistan,242,50.8,-33.7406522,18.9974819,17.2,56,0
+1432215,19-12-2024,"Newlands, Cape Town",Cape Town,1,Pakistan,329,51.3,-33.9742832,18.4572951,24,48,0
+1432215,19-12-2024,"Newlands, Cape Town",Cape Town,2,South Africa,248,43.8,-33.9742832,18.4572951,18.5,69,0
+1432216,22-12-2024,"The Wanderers Stadium, Johannesburg",Johannesburg,1,Pakistan,308,49.5,-26.205,28.049722,20.8,69,2.2
+1432216,22-12-2024,"The Wanderers Stadium, Johannesburg",Johannesburg,2,South Africa,271,43.2,-26.205,28.049722,18.2,84,2.2
+1433370,31-10-2024,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,1,England,209,46.2,18.5008483,-64.3745541,26.6,76,51.2
+1433370,31-10-2024,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2,West Indies,157,26.7,18.5008483,-64.3745541,25,86,51.2
+1433371,02-11-2024,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,1,West Indies,328,51,18.5008483,-64.3745541,25.8,86,16.4
+1433371,02-11-2024,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2,England,329,49,18.5008483,-64.3745541,27.4,81,16.4
+1433372,06-11-2024,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,England,263,50.8,13.0977832,-59.6184184,29.6,67,1.5
+1433372,06-11-2024,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2,West Indies,267,44.3,13.0977832,-59.6184184,25.9,87,1.5
+1433380,08-12-2024,"Warner Park, Basseterre, St Kitts",Basseterre,1,Bangladesh,294,51.3,17.2984395,-62.7220774,29,59,0.3
+1433380,08-12-2024,"Warner Park, Basseterre, St Kitts",Basseterre,2,West Indies,295,48.3,17.2984395,-62.7220774,27.7,64,0.3
+1433381,10-12-2024,"Warner Park, Basseterre, St Kitts",Basseterre,1,Bangladesh,227,47.3,17.2984395,-62.7220774,27.8,62,0.4
+1433381,10-12-2024,"Warner Park, Basseterre, St Kitts",Basseterre,2,West Indies,230,38,17.2984395,-62.7220774,26.4,65,0.4
+1433382,12-12-2024,"Warner Park, Basseterre, St Kitts",Basseterre,1,Bangladesh,321,51.5,17.2984395,-62.7220774,26.9,66,2.2
+1433382,12-12-2024,"Warner Park, Basseterre, St Kitts",Basseterre,2,West Indies,325,46.5,17.2984395,-62.7220774,25.8,73,2.2
+1439904,06-02-2025,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,1,England,248,48,21.1498134,79.0820556,31.8,29,0
+1439904,06-02-2025,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,2,India,251,39.5,21.1498134,79.0820556,25.9,29,0
+1439905,09-02-2025,"Barabati Stadium, Cuttack",Cuttack,1,England,304,51.3,20.4807044,85.8685254,29.9,35,0
+1439905,09-02-2025,"Barabati Stadium, Cuttack",Cuttack,2,India,308,45.7,20.4807044,85.8685254,23.5,79,0
+1439906,12-02-2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,India,356,51.3,23.0917717,72.5973345,31.5,23,0
+1439906,12-02-2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,England,214,34.8,23.0917717,72.5973345,26.6,30,0
+1442220,08-02-2025,"Gaddafi Stadium, Lahore",Lahore,1,New Zealand,330,51,31.5133615,74.3334644,22.8,28,0
+1442220,08-02-2025,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,252,48.8,31.5133615,74.3334644,18.1,52,0
+1442221,10-02-2025,"Gaddafi Stadium, Lahore",Lahore,1,South Africa,304,52.5,31.5133615,74.3334644,23.9,32,0.1
+1442221,10-02-2025,"Gaddafi Stadium, Lahore",Lahore,2,New Zealand,308,50.7,31.5133615,74.3334644,19.3,55,0.1
+1442222,12-02-2025,"National Stadium, Karachi",Karachi,1,South Africa,352,51,24.8952212,67.0816725,31.7,20,0
+1442222,12-02-2025,"National Stadium, Karachi",Karachi,2,Pakistan,355,50.2,24.8952212,67.0816725,25.7,42,0
+1442223,14-02-2025,"National Stadium, Karachi",Karachi,1,Pakistan,242,51.2,24.8952212,67.0816725,31.9,22,0
+1442223,14-02-2025,"National Stadium, Karachi",Karachi,2,New Zealand,243,47.3,24.8952212,67.0816725,24.5,59,0
+1442990,02-08-2024,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,230,51,6.9399983,79.8722901,28.3,80,9.1
+1442990,02-08-2024,"R Premadasa Stadium, Colombo",Colombo,2,India,230,48.5,6.9399983,79.8722901,26.5,89,9.1
+1442991,04-08-2024,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,240,51.2,6.9399983,79.8722901,28.4,80,5.1
+1442991,04-08-2024,"R Premadasa Stadium, Colombo",Colombo,2,India,208,43.2,6.9399983,79.8722901,26.8,85,5.1
+1442992,07-08-2024,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,248,50.2,6.9399983,79.8722901,28.8,74,1.4
+1442992,07-08-2024,"R Premadasa Stadium, Colombo",Colombo,2,India,138,26.2,6.9399983,79.8722901,25.9,86,1.4
+1443546,05-01-2025,"Basin Reserve, Wellington",Wellington,1,Sri Lanka,178,45,-41.3003599,174.7802545,13.1,74,3.1
+1443546,05-01-2025,"Basin Reserve, Wellington",Wellington,2,New Zealand,180,28,-41.3003599,174.7802545,13.6,72,3.1
+1443547,08-01-2025,"Seddon Park, Hamilton",Hamilton,1,New Zealand,255,37.7,-37.7867613,175.2742998,22.9,61,0.6
+1443547,08-01-2025,"Seddon Park, Hamilton",Hamilton,2,Sri Lanka,142,31.3,-37.7867613,175.2742998,18.1,81,0.6
+1443548,11-01-2025,"Eden Park, Auckland",Auckland,1,Sri Lanka,290,50.7,-36.8750352,174.7440567,23,44,0
+1443548,11-01-2025,"Eden Park, Auckland",Auckland,2,New Zealand,150,32.2,-36.8750352,174.7440567,18.5,66,0
+1443554,29-03-2025,"McLean Park, Napier",Napier,1,New Zealand,344,53.2,-39.5018431,176.9125267,18.2,60,0.4
+1443554,29-03-2025,"McLean Park, Napier",Napier,2,Pakistan,271,46.3,-39.5018431,176.9125267,14.1,79,0.4
+1443555,02-04-2025,"Seddon Park, Hamilton",Hamilton,1,New Zealand,292,53,-37.7867613,175.2742998,20.9,63,0.3
+1443555,02-04-2025,"Seddon Park, Hamilton",Hamilton,2,Pakistan,208,43.7,-37.7867613,175.2742998,18.8,68,0.3
+1443556,05-04-2025,"Bay Oval, Mount Maunganui",Mount Maunganui,1,New Zealand,264,43.8,-37.6528558,176.1907126,22.3,62,0.9
+1443556,05-04-2025,"Bay Oval, Mount Maunganui",Mount Maunganui,2,Pakistan,221,42.5,-37.6528558,176.1907126,17,87,0.9
+1444649,24-11-2024,"Queens Sports Club, Bulawayo",Bulawayo,1,Zimbabwe,205,41.5,-20.1450755,28.5879876,22.4,67,15.2
+1444649,24-11-2024,"Queens Sports Club, Bulawayo",Bulawayo,2,Pakistan,60,21.2,-20.1450755,28.5879876,17.9,92,15.2
+1444650,26-11-2024,"Queens Sports Club, Bulawayo",Bulawayo,1,Zimbabwe,145,33.3,-20.1450755,28.5879876,25.8,51,2.5
+1444650,26-11-2024,"Queens Sports Club, Bulawayo",Bulawayo,2,Pakistan,148,18.8,-20.1450755,28.5879876,19.5,94,2.5
+1444651,28-11-2024,"Queens Sports Club, Bulawayo",Bulawayo,1,Pakistan,303,51.3,-20.1450755,28.5879876,29.6,42,0.3
+1444651,28-11-2024,"Queens Sports Club, Bulawayo",Bulawayo,2,Zimbabwe,204,40.3,-20.1450755,28.5879876,22.5,67,0.3
+1445034,11-08-2024,"Sportpark Westvliet, The Hague",The Hague,1,Canada,194,49.2,52.0669331,4.3724956,24.9,66,0
+1445034,11-08-2024,"Sportpark Westvliet, The Hague",The Hague,2,Netherlands,195,47.3,52.0669331,4.3724956,23.3,69,0
+1445035,13-08-2024,"Sportpark Westvliet, The Hague",The Hague,1,United States of America,304,51.5,52.0669331,4.3724956,25.7,60,0
+1445035,13-08-2024,"Sportpark Westvliet, The Hague",The Hague,2,Canada,290,51.5,52.0669331,4.3724956,22.5,73,0
+1445036,15-08-2024,"Sportpark Westvliet, The Hague",The Hague,1,Netherlands,237,50.3,52.0669331,4.3724956,22.6,68,0.2
+1445036,15-08-2024,"Sportpark Westvliet, The Hague",The Hague,2,United States of America,218,51.5,52.0669331,4.3724956,20.6,67,0.2
+1445037,17-08-2024,"Hazelaarweg, Rotterdam",Rotterdam,1,Netherlands,220,50,51.967391,4.4800497,23,52,0
+1445037,17-08-2024,"Hazelaarweg, Rotterdam",Rotterdam,2,Canada,157,38,51.967391,4.4800497,20.3,63,0
+1445038,19-08-2024,"Hazelaarweg, Rotterdam",Rotterdam,1,United States of America,275,51.3,51.967391,4.4800497,23,51,0
+1445038,19-08-2024,"Hazelaarweg, Rotterdam",Rotterdam,2,Canada,225,48.5,51.967391,4.4800497,20.9,62,0
+1445039,21-08-2024,"Hazelaarweg, Rotterdam",Rotterdam,1,Netherlands,206,50.8,51.967391,4.4800497,18.4,55,0.1
+1445039,21-08-2024,"Hazelaarweg, Rotterdam",Rotterdam,2,United States of America,179,47,51.967391,4.4800497,16.9,70,0.1
+1448343,29-05-2025,"Edgbaston, Birmingham",Birmingham,1,England,400,52.2,52.4709941,-1.9225861,20.9,58,2.7
+1448343,29-05-2025,"Edgbaston, Birmingham",Birmingham,2,West Indies,162,27.8,52.4709941,-1.9225861,17,79,2.7
+1448344,01-06-2025,"Sophia Gardens, Cardiff",Cardiff,1,West Indies,308,49.2,51.485159,-3.1904734,15.9,65,0.8
+1448344,01-06-2025,"Sophia Gardens, Cardiff",Cardiff,2,England,312,50.2,51.485159,-3.1904734,14.3,78,0.8
+1448345,03-06-2025,"Kennington Oval, London",London,1,West Indies,251,41.2,51.4821031,-0.1117327,16.5,77,3.7
+1448345,03-06-2025,"Kennington Oval, London",London,2,England,246,30.5,51.4821031,-0.1117327,16.1,72,3.7
+1448354,02-09-2025,"Headingley, Leeds",Leeds,1,England,131,25.2,53.8210076,-1.5777737,19,49,0.2
+1448354,02-09-2025,"Headingley, Leeds",Leeds,2,South Africa,137,21.7,53.8210076,-1.5777737,16.2,75,0.2
+1448355,04-09-2025,"Lord's, London",London,1,South Africa,330,52,51.5289277,-0.1715767,18.7,57,4.7
+1448355,04-09-2025,"Lord's, London",London,2,England,325,51.3,51.5289277,-0.1715767,16.4,67,4.7
+1448356,07-09-2025,"The Rose Bowl, Southampton",Southampton,1,England,414,53.3,50.9025349,-1.404189,21.3,73,0
+1448356,07-09-2025,"The Rose Bowl, Southampton",Southampton,2,South Africa,72,22,50.9025349,-1.404189,16.5,88,0
+1450690,16-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,1,Namibia,199,51.7,-22.5776104,17.0772739,27.6,4,0
+1450690,16-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,2,United States of America,200,41.7,-22.5776104,17.0772739,18.5,10,0
+1450691,18-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,1,United Arab Emirates,106,32.3,-22.5776104,17.0772739,30.3,3,0
+1450691,18-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,2,United States of America,107,16.3,-22.5776104,17.0772739,22.2,8,0
+1450692,20-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,1,Namibia,313,51.8,-22.5776104,17.0772739,27.9,6,0
+1450692,20-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,2,United Arab Emirates,316,51.5,-22.5776104,17.0772739,20.6,13,0
+1450693,22-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,1,Namibia,286,51.3,-22.5776104,17.0772739,30.1,12,0
+1450693,22-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,2,United States of America,287,46.2,-22.5776104,17.0772739,26.7,14,0
+1450694,24-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,1,United States of America,339,51,-22.5776104,17.0772739,27.7,18,0
+1450694,24-09-2024,"United Cricket Club Ground, Windhoek",Windhoek,2,United Arab Emirates,203,37,-22.5776104,17.0772739,25.2,23,0
+1450695,26-09-2024,"Wanderers Cricket Ground, Windhoek",Windhoek,1,United Arab Emirates,190,44.7,-22.5776104,17.0772739,24,33,0
+1450695,26-09-2024,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,194,29.3,-22.5776104,17.0772739,21.8,32,0
+1450696,16-09-2024,"Maple Leaf North-West Ground, King City",King City,1,Canada,253,51.8,36.2125032,-121.1270413,22.5,34,0.1
+1450696,16-09-2024,"Maple Leaf North-West Ground, King City",King City,2,Nepal,150,41.7,36.2125032,-121.1270413,15.8,68,0.1
+1450697,18-09-2024,"Maple Leaf North-West Ground, King City",King City,1,Nepal,220,51.2,36.2125032,-121.1270413,26.8,24,0
+1450697,18-09-2024,"Maple Leaf North-West Ground, King City",King City,2,Oman,223,50.3,36.2125032,-121.1270413,18.8,67,0
+1450698,20-09-2024,"Maple Leaf North-West Ground, King City",King City,1,Canada,276,51.2,36.2125032,-121.1270413,30.9,24,0
+1450698,20-09-2024,"Maple Leaf North-West Ground, King City",King City,2,Oman,217,48.3,36.2125032,-121.1270413,20.3,58,0
+1450699,22-09-2024,"Maple Leaf North-West Ground, King City",King City,1,Nepal,181,48.7,36.2125032,-121.1270413,36.2,14,0
+1450699,22-09-2024,"Maple Leaf North-West Ground, King City",King City,2,Canada,186,42.8,36.2125032,-121.1270413,24.5,42,0
+1450701,26-09-2024,"Maple Leaf North-West Ground, King City",King City,1,Oman,198,51.2,36.2125032,-121.1270413,35.1,11,0
+1450701,26-09-2024,"Maple Leaf North-West Ground, King City",King City,2,Canada,199,46.7,36.2125032,-121.1270413,23.5,40,0
+1450702,25-10-2024,"Grand Prairie Stadium, Dallas",Dallas,1,United States of America,144,40.7,32.7683435,-96.9860041,31,43,0
+1450702,25-10-2024,"Grand Prairie Stadium, Dallas",Dallas,2,Scotland,145,24.8,32.7683435,-96.9860041,27.4,53,0
+1450704,29-10-2024,"Grand Prairie Stadium, Dallas",Dallas,1,Scotland,154,42.7,32.7683435,-96.9860041,30,44,0.9
+1450704,29-10-2024,"Grand Prairie Stadium, Dallas",Dallas,2,Nepal,157,31,32.7683435,-96.9860041,27.8,45,0.9
+1450705,31-10-2024,"Grand Prairie Stadium, Dallas",Dallas,1,Scotland,317,51,32.7683435,-96.9860041,21.5,53,7.8
+1450705,31-10-2024,"Grand Prairie Stadium, Dallas",Dallas,2,United States of America,246,45,32.7683435,-96.9860041,18.2,66,7.8
+1450706,02-11-2024,"Grand Prairie Stadium, Dallas",Dallas,1,United States of America,281,50.8,32.7683435,-96.9860041,25.3,67,0.4
+1450706,02-11-2024,"Grand Prairie Stadium, Dallas",Dallas,2,Nepal,244,50.3,32.7683435,-96.9860041,23.5,83,0.4
+1450707,04-11-2024,"Grand Prairie Stadium, Dallas",Dallas,1,Nepal,26,6.5,32.7683435,-96.9860041,21.4,89,47.8
+1451817,20-10-2024,Pallekele International Cricket Stadium,Kandy,1,West Indies,185,39,7.2806408,80.7224634,25.2,86,3.3
+1451817,20-10-2024,Pallekele International Cricket Stadium,Kandy,2,Sri Lanka,234,32.2,7.2806408,80.7224634,22.5,96,3.3
+1451818,23-10-2024,Pallekele International Cricket Stadium,Kandy,1,West Indies,189,36.7,7.2806408,80.7224634,25,86,9.6
+1451818,23-10-2024,Pallekele International Cricket Stadium,Kandy,2,Sri Lanka,190,38.7,7.2806408,80.7224634,23.1,97,9.6
+1451819,26-10-2024,Pallekele International Cricket Stadium,Kandy,1,Sri Lanka,156,23.2,7.2806408,80.7224634,25.4,83,4.1
+1451819,26-10-2024,Pallekele International Cricket Stadium,Kandy,2,West Indies,196,22.7,7.2806408,80.7224634,22.3,97,4.1
+1456443,13-11-2024,Rangiri Dambulla International Stadium,Dambulla,1,Sri Lanka,324,50.3,7.8742031,80.6510917,29.5,63,2.3
+1456443,13-11-2024,Rangiri Dambulla International Stadium,Dambulla,2,New Zealand,175,27.7,7.8742031,80.6510917,23.9,96,2.3
+1456444,17-11-2024,Pallekele International Cricket Stadium,Kandy,1,New Zealand,209,46.2,7.2806408,80.7224634,28.4,66,0.3
+1456444,17-11-2024,Pallekele International Cricket Stadium,Kandy,2,Sri Lanka,210,46.8,7.2806408,80.7224634,22.9,97,0.3
+1456445,19-11-2024,Pallekele International Cricket Stadium,Kandy,1,New Zealand,112,21,7.2806408,80.7224634,24,95,10.4
+1457464,01-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United Arab Emirates,128,42.5,15.5751567,32.5460757,33.2,13,0
+1457464,01-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,129,45,15.5751567,32.5460757,28,16,0
+1457465,03-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United Arab Emirates,240,50.8,15.5751567,32.5460757,34.9,12,0
+1457465,03-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Netherlands,214,48.5,15.5751567,32.5460757,29.6,17,0
+1457466,05-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Netherlands,132,41,15.5751567,32.5460757,33.6,23,0
+1457466,05-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,133,35.2,15.5751567,32.5460757,28.9,26,0
+1457467,07-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United Arab Emirates,78,26.3,15.5751567,32.5460757,36.5,21,0
+1457467,07-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,79,24.5,15.5751567,32.5460757,31.8,29,0
+1457468,09-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Netherlands,241,50.3,15.5751567,32.5460757,37,22,0
+1457468,09-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,United Arab Emirates,174,46.2,15.5751567,32.5460757,32.8,26,0
+1457469,11-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Oman,155,44.8,15.5751567,32.5460757,36.6,23,0
+1457469,11-11-2024,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Netherlands,154,46.3,15.5751567,32.5460757,31.7,31,0
+1459908,12-02-2025,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,214,46.8,6.9399983,79.8722901,32.2,57,0.4
+1459908,12-02-2025,"R Premadasa Stadium, Colombo",Colombo,2,Australia,165,34.8,6.9399983,79.8722901,29.2,63,0.4
+1466414,19-02-2025,"National Stadium, Karachi",Karachi,1,New Zealand,320,51.2,24.8952212,67.0816725,30.5,29,0
+1466414,19-02-2025,"National Stadium, Karachi",Karachi,2,Pakistan,260,48,24.8952212,67.0816725,25,61,0
+1466415,20-02-2025,Dubai International Cricket Stadium,Dubai,1,Bangladesh,228,51,25.0467384,55.219007,24.4,43,0
+1466415,20-02-2025,Dubai International Cricket Stadium,Dubai,2,India,231,47,25.0467384,55.219007,22.4,66,0
+1466417,22-02-2025,"Gaddafi Stadium, Lahore",Lahore,1,England,351,51.5,31.5133615,74.3334644,21.8,46,0
+1466417,22-02-2025,"Gaddafi Stadium, Lahore",Lahore,2,Australia,356,48.2,31.5133615,74.3334644,17.9,68,0
+1466418,23-02-2025,Dubai International Cricket Stadium,Dubai,1,Pakistan,241,51.2,25.0467384,55.219007,33.8,26,0
+1466418,23-02-2025,Dubai International Cricket Stadium,Dubai,2,India,244,43.8,25.0467384,55.219007,25.4,60,0
+1466419,24-02-2025,Rawalpindi Cricket Stadium,Rawalpindi,1,Bangladesh,236,52.5,33.6511816,73.07598,23.1,26,0
+1466419,24-02-2025,Rawalpindi Cricket Stadium,Rawalpindi,2,New Zealand,240,46.5,33.6511816,73.07598,15.8,54,0
+1466424,01-03-2025,"National Stadium, Karachi",Karachi,1,England,179,40.5,24.8952212,67.0816725,28.8,42,0
+1466424,01-03-2025,"National Stadium, Karachi",Karachi,2,South Africa,181,30.8,24.8952212,67.0816725,23.5,72,0
+1466425,02-03-2025,Dubai International Cricket Stadium,Dubai,1,India,249,51.5,25.0467384,55.219007,22.8,45,0
+1466425,02-03-2025,Dubai International Cricket Stadium,Dubai,2,New Zealand,205,46.3,25.0467384,55.219007,20.3,55,0
+1466426,04-03-2025,Dubai International Cricket Stadium,Dubai,1,Australia,264,50.7,25.0467384,55.219007,29.5,17,0
+1466426,04-03-2025,Dubai International Cricket Stadium,Dubai,2,India,267,48.7,25.0467384,55.219007,23.6,48,0
+1466427,05-03-2025,"Gaddafi Stadium, Lahore",Lahore,1,New Zealand,362,51,31.5133615,74.3334644,21.8,36,0
+1466427,05-03-2025,"Gaddafi Stadium, Lahore",Lahore,2,South Africa,312,51.2,31.5133615,74.3334644,17,53,0
+1466428,09-03-2025,Dubai International Cricket Stadium,Dubai,1,New Zealand,251,51.5,25.0467384,55.219007,26,54,0
+1466428,09-03-2025,Dubai International Cricket Stadium,Dubai,2,India,254,50,25.0467384,55.219007,24.1,60,0
+1467701,14-02-2025,Harare Sports Club,Harare,1,Zimbabwe,299,51.5,-17.8136915,31.0504604,24.2,66,11.5
+1467701,14-02-2025,Harare Sports Club,Harare,2,Ireland,250,48.8,-17.8136915,31.0504604,18.8,95,11.5
+1467702,16-02-2025,Harare Sports Club,Harare,1,Zimbabwe,245,50.5,-17.8136915,31.0504604,24,66,6
+1467702,16-02-2025,Harare Sports Club,Harare,2,Ireland,249,50.2,-17.8136915,31.0504604,18.6,97,6
+1467703,18-02-2025,Harare Sports Club,Harare,1,Ireland,240,51.2,-17.8136915,31.0504604,25.6,60,1.2
+1467703,18-02-2025,Harare Sports Club,Harare,2,Zimbabwe,246,40.3,-17.8136915,31.0504604,20.9,85,1.2
+1468879,08-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United States of America,293,43.7,15.5751567,32.5460757,32,14,0
+1468879,08-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Namibia,179,41.3,15.5751567,32.5460757,27.5,15,0
+1468880,10-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Namibia,169,47,15.5751567,32.5460757,33.7,13,0
+1468880,10-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,146,38.3,15.5751567,32.5460757,29.2,17,0
+1468881,12-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United States of America,151,43,15.5751567,32.5460757,31.8,22,0
+1468881,12-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,152,46,15.5751567,32.5460757,28.5,28,0
+1468882,14-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United States of America,268,51.7,15.5751567,32.5460757,34.7,22,0
+1468882,14-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Namibia,198,43.3,15.5751567,32.5460757,30.9,27,0
+1468883,16-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,Namibia,96,33.5,15.5751567,32.5460757,32.7,5,0
+1468883,16-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,100,23.5,15.5751567,32.5460757,28.1,5,0
+1468884,18-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,1,United States of America,122,36.7,15.5751567,32.5460757,35.7,12,0
+1468884,18-02-2025,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,2,Oman,65,25.7,15.5751567,32.5460757,31,13,0
+1469168,14-02-2025,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,281,50.8,6.9399983,79.8722901,29.9,58,0.4
+1469168,14-02-2025,"R Premadasa Stadium, Colombo",Colombo,2,Australia,107,24.7,6.9399983,79.8722901,27.4,72,0.4
+1472511,21-05-2025,"Castle Avenue, Dublin",Dublin,1,Ireland,303,51.3,53.3675653,-6.2039037,20,47,0
+1472511,21-05-2025,"Castle Avenue, Dublin",Dublin,2,West Indies,179,35.2,53.3675653,-6.2039037,19.8,52,0
+1472512,23-05-2025,"Castle Avenue, Dublin",Dublin,1,West Indies,352,51.8,53.3675653,-6.2039037,17.6,57,3.2
+1472513,25-05-2025,"Castle Avenue, Dublin",Dublin,1,West Indies,385,54.2,53.3675653,-6.2039037,14.9,63,1.5
+1472513,25-05-2025,"Castle Avenue, Dublin",Dublin,2,Ireland,165,30.2,53.3675653,-6.2039037,12.4,61,1.5
+1472528,08-08-2025,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,West Indies,280,51,41.9881533,-8.6079111,32.4,47,0
+1472528,08-08-2025,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,2,Pakistan,284,51.5,41.9881533,-8.6079111,28,58,0
+1472529,10-08-2025,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,Pakistan,171,39,41.9881533,-8.6079111,33.5,40,0
+1472529,10-08-2025,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,2,West Indies,184,33.3,41.9881533,-8.6079111,28.3,52,0
+1472530,12-08-2025,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,West Indies,294,51,41.9881533,-8.6079111,31.5,39,2.3
+1472530,12-08-2025,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,2,Pakistan,92,29.7,41.9881533,-8.6079111,24,63,2.3
+1474410,07-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Netherlands,159,40.2,-22.5776104,17.0772739,28.7,38,0.7
+1474410,07-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,106,30.8,-22.5776104,17.0772739,23.4,56,0.7
+1474411,09-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Canada,167,39.7,-22.5776104,17.0772739,20.3,88,8.5
+1474411,09-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Namibia,174,40.7,-22.5776104,17.0772739,18.9,89,8.5
+1474413,13-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Namibia,148,45.7,-22.5776104,17.0772739,23.3,57,3
+1474413,13-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Netherlands,149,37.2,-22.5776104,17.0772739,20.3,74,3
+1474414,15-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,1,Namibia,186,50,-22.5776104,17.0772739,25.3,44,0.9
+1474414,15-03-2025,"Wanderers Cricket Ground, Windhoek",Windhoek,2,Canada,154,42.8,-22.5776104,17.0772739,20.3,69,0.9
+1478901,19-08-2025,"Cazaly's Stadium, Cairns",Cairns,1,South Africa,296,50.5,-16.9206657,145.7721854,25.5,48,0
+1478901,19-08-2025,"Cazaly's Stadium, Cairns",Cairns,2,Australia,198,41.7,-16.9206657,145.7721854,19.4,74,0
+1478902,22-08-2025,"Great Barrier Reef Arena, Mackay",Mackay,1,South Africa,277,50.3,-21.141956,149.1865149,22.5,74,0.1
+1478902,22-08-2025,"Great Barrier Reef Arena, Mackay",Mackay,2,Australia,193,38,-21.141956,149.1865149,19.8,92,0.1
+1478903,24-08-2025,"Great Barrier Reef Arena, Mackay",Mackay,1,Australia,431,52.2,-21.141956,149.1865149,23.8,58,0
+1478903,24-08-2025,"Great Barrier Reef Arena, Mackay",Mackay,2,South Africa,155,25.2,-21.141956,149.1865149,20,89,0
+1478904,19-10-2025,Perth Stadium,Perth,1,India,136,27,-31.9510448,115.8890756,16.4,79,4.1
+1478904,19-10-2025,Perth Stadium,Perth,2,Australia,131,21.8,-31.9510448,115.8890756,14.4,81,4.1
+1478905,23-10-2025,Adelaide Oval,Adelaide,1,India,264,50.8,-34.9155946,138.5961558,17.6,56,0
+1478905,23-10-2025,Adelaide Oval,Adelaide,2,Australia,265,47.3,-34.9155946,138.5961558,14,79,0
+1478906,25-10-2025,Sydney Cricket Ground,Sydney,1,Australia,236,47.2,-33.8914241,151.2247484,22.5,53,0
+1478906,25-10-2025,Sydney Cricket Ground,Sydney,2,India,237,39.8,-33.8914241,151.2247484,18.9,71,0
+1479573,30-11-2025,"JSCA International Stadium Complex, Ranchi",Ranchi,1,India,349,51.7,23.3104522,85.2748774,22.8,43,0
+1479573,30-11-2025,"JSCA International Stadium Complex, Ranchi",Ranchi,2,South Africa,332,49.8,23.3104522,85.2748774,16,70,0
+1479574,03-12-2025,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,1,India,358,52.5,21.2380912,81.6336993,27,34,0
+1479574,03-12-2025,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,2,South Africa,362,51.3,21.2380912,81.6336993,20.1,62,0
+1479575,06-12-2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,1,South Africa,270,49.2,17.6935526,83.2921297,26.1,53,0
+1479575,06-12-2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,2,India,271,41.3,17.6935526,83.2921297,23.1,76,0
+1481530,06-05-2025,"VRA Ground, Amstelveen",Amstelveen,1,Netherlands,272,51,52.3195895,4.8490418,13.7,59,0.4
+1481530,06-05-2025,"VRA Ground, Amstelveen",Amstelveen,2,United Arab Emirates,159,41.5,52.3195895,4.8490418,11.2,76,0.4
+1481531,08-05-2025,"VRA Ground, Amstelveen",Amstelveen,1,United Arab Emirates,296,51.3,52.3195895,4.8490418,16.8,42,0.1
+1481531,08-05-2025,"VRA Ground, Amstelveen",Amstelveen,2,Scotland,199,45,52.3195895,4.8490418,14.9,53,0.1
+1481532,10-05-2025,"VRA Ground, Amstelveen",Amstelveen,1,Netherlands,282,51,52.3195895,4.8490418,21.1,35,0
+1481532,10-05-2025,"VRA Ground, Amstelveen",Amstelveen,2,Scotland,263,50.3,52.3195895,4.8490418,18.1,51,0
+1481533,12-05-2025,"Sportpark Maarschalkerweerd, Utrecht",Utrecht,1,United Arab Emirates,204,51.7,52.0907006,5.1215634,23.8,30,0
+1481533,12-05-2025,"Sportpark Maarschalkerweerd, Utrecht",Utrecht,2,Netherlands,205,36.7,52.0907006,5.1215634,21.8,29,0
+1481534,14-05-2025,"Sportpark Maarschalkerweerd, Utrecht",Utrecht,1,United Arab Emirates,161,49.2,52.0907006,5.1215634,20.1,39,0
+1481534,14-05-2025,"Sportpark Maarschalkerweerd, Utrecht",Utrecht,2,Scotland,162,24.5,52.0907006,5.1215634,15.1,54,0
+1481535,16-05-2025,"Sportpark Maarschalkerweerd, Utrecht",Utrecht,1,Scotland,380,51.5,52.0907006,5.1215634,17.2,48,0
+1481535,16-05-2025,"Sportpark Maarschalkerweerd, Utrecht",Utrecht,2,Netherlands,235,42.5,52.0907006,5.1215634,13.4,61,0
+1482564,17-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,United States of America,361,51.3,26.1403635,-80.2133808,33.8,47,0
+1482564,17-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,2,Canada,192,47.2,26.1403635,-80.2133808,28.3,69,0
+1482565,19-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,Oman,217,51.5,26.1403635,-80.2133808,34.7,39,0
+1482565,19-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,2,Canada,202,49.8,26.1403635,-80.2133808,28.6,63,0
+1482566,21-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,Oman,266,50.5,26.1403635,-80.2133808,37.3,28,0
+1482566,21-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,2,United States of America,266,51.2,26.1403635,-80.2133808,33,41,0
+1482567,23-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,Canada,212,49.5,26.1403635,-80.2133808,30.1,63,5.1
+1482567,23-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,2,Oman,108,24,26.1403635,-80.2133808,27.7,79,5.1
+1482568,25-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,United States of America,286,51.5,26.1403635,-80.2133808,32,54,0.5
+1482568,25-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,2,Canada,198,46.5,26.1403635,-80.2133808,28.1,69,0.5
+1482569,27-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,United States of America,293,50.8,26.1403635,-80.2133808,32.7,53,1.5
+1482569,27-05-2025,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,2,Oman,284,50.3,26.1403635,-80.2133808,29.5,63,1.5
+1485505,02-07-2025,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,244,49.8,6.9399983,79.8722901,29,76,1.9
+1485505,02-07-2025,"R Premadasa Stadium, Colombo",Colombo,2,Bangladesh,167,36.5,6.9399983,79.8722901,27.2,89,1.9
+1485506,05-07-2025,"R Premadasa Stadium, Colombo",Colombo,1,Bangladesh,248,47.2,6.9399983,79.8722901,29,78,2.1
+1485506,05-07-2025,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,232,49.5,6.9399983,79.8722901,27.8,83,2.1
+1485507,08-07-2025,Pallekele International Cricket Stadium,Kandy,1,Sri Lanka,285,50.5,7.2806408,80.7224634,28.4,66,0.7
+1485507,08-07-2025,Pallekele International Cricket Stadium,Kandy,2,Bangladesh,186,40.7,7.2806408,80.7224634,24.6,82,0.7
+1486772,02-06-2025,"Forthill, Dundee",Dundee,1,Scotland,296,51.8,56.4748716,-2.8760079,14.5,59,0.3
+1486772,02-06-2025,"Forthill, Dundee",Dundee,2,Nepal,297,51.8,56.4748716,-2.8760079,13.2,63,0.3
+1486773,04-06-2025,"Forthill, Dundee",Dundee,1,Netherlands,225,51.2,56.4748716,-2.8760079,12.2,56,0.9
+1486773,04-06-2025,"Forthill, Dundee",Dundee,2,Nepal,226,48.8,56.4748716,-2.8760079,11.1,61,0.9
+1486774,06-06-2025,"Forthill, Dundee",Dundee,1,Scotland,262,51.2,56.4748716,-2.8760079,15.2,46,1.4
+1486774,06-06-2025,"Forthill, Dundee",Dundee,2,Netherlands,218,45.5,56.4748716,-2.8760079,13.4,61,1.4
+1486775,08-06-2025,"Forthill, Dundee",Dundee,1,Scotland,323,51,56.4748716,-2.8760079,15.1,47,0.2
+1486775,08-06-2025,"Forthill, Dundee",Dundee,2,Nepal,321,52.2,56.4748716,-2.8760079,12.6,71,0.2
+1486776,10-06-2025,"Forthill, Dundee",Dundee,1,Nepal,236,51,56.4748716,-2.8760079,17.5,44,1.5
+1486776,10-06-2025,"Forthill, Dundee",Dundee,2,Netherlands,210,51.3,56.4748716,-2.8760079,11.7,82,1.5
+1486777,12-06-2025,"Forthill, Dundee",Dundee,1,Scotland,369,51.8,56.4748716,-2.8760079,15.2,74,1.8
+1486777,12-06-2025,"Forthill, Dundee",Dundee,2,Netherlands,374,50.3,56.4748716,-2.8760079,13.6,80,1.8
+1490231,11-01-2026,"Kotambi Stadium, Vadodara",Vadodara,1,New Zealand,300,51.2,22.2973142,73.1942567,29.2,22,0
+1490231,11-01-2026,"Kotambi Stadium, Vadodara",Vadodara,2,India,306,50.3,22.2973142,73.1942567,22.7,46,0
+1490232,14-01-2026,"Niranjan Shah Stadium, Rajkot",Rajkot,1,India,284,51.3,22.3627855,70.7100844,26.4,19,0
+1490232,14-01-2026,"Niranjan Shah Stadium, Rajkot",Rajkot,2,New Zealand,286,48.2,22.3627855,70.7100844,17,40,0
+1490233,18-01-2026,"Holkar Cricket Stadium, Indore",Indore,1,New Zealand,337,50.5,22.7242512,75.8796703,25.6,35,0
+1490233,18-01-2026,"Holkar Cricket Stadium, Indore",Indore,2,India,296,47.2,22.7242512,75.8796703,20,51,0
+1491720,26-10-2025,"Bay Oval, Mount Maunganui",Mount Maunganui,1,England,223,37.7,-37.6528558,176.1907126,16.9,55,0
+1491720,26-10-2025,"Bay Oval, Mount Maunganui",Mount Maunganui,2,New Zealand,224,39.2,-37.6528558,176.1907126,13.2,76,0
+1491721,29-10-2025,"Seddon Park, Hamilton",Hamilton,1,England,175,36.2,-37.7867613,175.2742998,16.1,58,0.2
+1491721,29-10-2025,"Seddon Park, Hamilton",Hamilton,2,New Zealand,177,33.8,-37.7867613,175.2742998,11.2,82,0.2
+1491722,01-11-2025,"Sky Stadium, Wellington",Wellington,1,England,222,41.8,-41.2887953,174.7772114,14.6,64,0
+1491722,01-11-2025,"Sky Stadium, Wellington",Wellington,2,New Zealand,226,45.7,-41.2887953,174.7772114,12.7,71,0
+1491728,16-11-2025,"Hagley Oval, Christchurch",Christchurch,1,New Zealand,269,51.7,-43.5344119,172.618646,15.4,66,0
+1491728,16-11-2025,"Hagley Oval, Christchurch",Christchurch,2,West Indies,262,52.3,-43.5344119,172.618646,12.3,83,0
+1491729,19-11-2025,"McLean Park, Napier",Napier,1,West Indies,247,35.2,-39.5018431,176.9125267,19.5,95,30.5
+1491729,19-11-2025,"McLean Park, Napier",Napier,2,New Zealand,248,34.5,-39.5018431,176.9125267,20.4,98,30.5
+1491730,22-11-2025,"Seddon Park, Hamilton",Hamilton,1,West Indies,161,37,-37.7867613,175.2742998,22.8,65,0.6
+1491730,22-11-2025,"Seddon Park, Hamilton",Hamilton,2,New Zealand,162,31.7,-37.7867613,175.2742998,18,85,0.6
+1492821,29-08-2025,Harare Sports Club,Harare,1,Sri Lanka,298,50.8,-17.8136915,31.0504604,26.8,9,0
+1492821,29-08-2025,Harare Sports Club,Harare,2,Zimbabwe,291,52.7,-17.8136915,31.0504604,20,22,0
+1492822,31-08-2025,Harare Sports Club,Harare,1,Zimbabwe,277,52.5,-17.8136915,31.0504604,26.7,8,0
+1492822,31-08-2025,Harare Sports Club,Harare,2,Sri Lanka,278,50.3,-17.8136915,31.0504604,20.6,17,0
+1498181,27-08-2025,"Maple Leaf North-West Ground, King City",King City,1,Canada,219,50.7,36.2125032,-121.1270413,36.2,8,0
+1498181,27-08-2025,"Maple Leaf North-West Ground, King City",King City,2,Namibia,220,49.2,36.2125032,-121.1270413,23,53,0
+1498183,31-08-2025,"Maple Leaf North-West Ground, King City",King City,1,Canada,184,48.8,36.2125032,-121.1270413,40.5,11,0
+1498183,31-08-2025,"Maple Leaf North-West Ground, King City",King City,2,Scotland,187,43.7,36.2125032,-121.1270413,30.7,18,0
+1498184,02-09-2025,"Maple Leaf North-West Ground, King City",King City,1,Namibia,261,52.7,36.2125032,-121.1270413,36.5,14,0
+1498184,02-09-2025,"Maple Leaf North-West Ground, King City",King City,2,Canada,237,49.8,36.2125032,-121.1270413,23.8,55,0
+1498185,04-09-2025,"Maple Leaf North-West Ground, King City",King City,1,Scotland,164,24.7,36.2125032,-121.1270413,33.7,24,0
+1498185,04-09-2025,"Maple Leaf North-West Ground, King City",King City,2,Namibia,109,22,36.2125032,-121.1270413,20.5,62,0
+1501898,04-11-2025,"Iqbal Stadium, Faisalabad",Faisalabad,1,South Africa,263,50.5,31.4338476,73.0857949,30,26,0
+1501898,04-11-2025,"Iqbal Stadium, Faisalabad",Faisalabad,2,Pakistan,264,50.7,31.4338476,73.0857949,22.1,44,0
+1501899,06-11-2025,"Iqbal Stadium, Faisalabad",Faisalabad,1,Pakistan,269,51.5,31.4338476,73.0857949,27.6,21,0
+1501899,06-11-2025,"Iqbal Stadium, Faisalabad",Faisalabad,2,South Africa,270,41,31.4338476,73.0857949,21.7,34,0
+1501900,08-11-2025,"Iqbal Stadium, Faisalabad",Faisalabad,1,South Africa,143,38,31.4338476,73.0857949,27.1,20,0
+1501900,08-11-2025,"Iqbal Stadium, Faisalabad",Faisalabad,2,Pakistan,144,25.3,31.4338476,73.0857949,21.4,46,0
+1502167,11-11-2025,Rawalpindi Cricket Stadium,Rawalpindi,1,Pakistan,299,52.2,33.6511816,73.07598,22,35,0
+1502167,11-11-2025,Rawalpindi Cricket Stadium,Rawalpindi,2,Sri Lanka,293,53,33.6511816,73.07598,13.6,69,0
+1502168,14-11-2025,Rawalpindi Cricket Stadium,Rawalpindi,1,Sri Lanka,288,52.3,33.6511816,73.07598,21.8,36,0
+1502168,14-11-2025,Rawalpindi Cricket Stadium,Rawalpindi,2,Pakistan,289,50.2,33.6511816,73.07598,14.7,64,0
+1502169,16-11-2025,Rawalpindi Cricket Stadium,Rawalpindi,1,Sri Lanka,211,46.5,33.6511816,73.07598,21.2,39,0
+1502169,16-11-2025,Rawalpindi Cricket Stadium,Rawalpindi,2,Pakistan,215,46.3,33.6511816,73.07598,14.1,69,0
+1505122,18-10-2025,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,207,50.7,23.7643863,90.3890144,33.7,47,1.6
+1505122,18-10-2025,"Shere Bangla National Stadium, Mirpur",Dhaka,2,West Indies,133,39.5,23.7643863,90.3890144,28.5,82,1.6
+1505123,21-10-2025,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,213,50.5,23.7643863,90.3890144,33.8,43,0
+1505123,21-10-2025,"Shere Bangla National Stadium, Mirpur",Dhaka,2,West Indies,213,50.8,23.7643863,90.3890144,29,72,0
+1505124,23-10-2025,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,296,50.8,23.7643863,90.3890144,33.6,48,0
+1505124,23-10-2025,"Shere Bangla National Stadium, Mirpur",Dhaka,2,West Indies,117,30.7,23.7643863,90.3890144,29.1,73,0
+1507716,22-01-2026,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,271,50.8,6.9399983,79.8722901,32.6,34,0
+1507716,22-01-2026,"R Premadasa Stadium, Colombo",Colombo,2,England,252,51,6.9399983,79.8722901,26,75,0
+1507717,24-01-2026,"R Premadasa Stadium, Colombo",Colombo,1,Sri Lanka,219,50.3,6.9399983,79.8722901,28.1,70,0.7
+1507717,24-01-2026,"R Premadasa Stadium, Colombo",Colombo,2,England,223,46.7,6.9399983,79.8722901,26.4,82,0.7
+1507718,27-01-2026,"R Premadasa Stadium, Colombo",Colombo,1,England,357,51,6.9399983,79.8722901,33.8,38,0
+1507718,27-01-2026,"R Premadasa Stadium, Colombo",Colombo,2,Sri Lanka,304,46.8,6.9399983,79.8722901,28,58,0
+1507884,26-10-2025,Dubai International Cricket Stadium,Dubai,1,United States of America,262,51.2,25.0467384,55.219007,30.5,51,0
+1507884,26-10-2025,Dubai International Cricket Stadium,Dubai,2,Nepal,156,40.3,25.0467384,55.219007,28,61,0
+1507885,28-10-2025,Dubai International Cricket Stadium,Dubai,1,United Arab Emirates,211,50.8,25.0467384,55.219007,31.8,54,0
+1507885,28-10-2025,Dubai International Cricket Stadium,Dubai,2,United States of America,213,49.7,25.0467384,55.219007,29.4,63,0
+1507886,30-10-2025,"ICC Academy, Dubai",Dubai,1,Nepal,233,51,25.0742823,55.1885387,31.6,49,0
+1507886,30-10-2025,"ICC Academy, Dubai",Dubai,2,United Arab Emirates,237,43.8,25.0742823,55.1885387,29.2,60,0
+1507887,01-11-2025,"ICC Academy, Dubai",Dubai,1,Nepal,271,50.8,25.0742823,55.1885387,32,42,0
+1507887,01-11-2025,"ICC Academy, Dubai",Dubai,2,United States of America,273,49.7,25.0742823,55.1885387,29.4,54,0
+1507888,03-11-2025,Dubai International Cricket Stadium,Dubai,1,United States of America,292,50.8,25.0467384,55.219007,31.1,46,0
+1507888,03-11-2025,Dubai International Cricket Stadium,Dubai,2,United Arab Emirates,49,23,25.0467384,55.219007,28.9,58,0
+1507889,05-11-2025,"ICC Academy, Dubai",Dubai,1,Nepal,239,52.3,25.0742823,55.1885387,32.3,26,0
+1507889,05-11-2025,"ICC Academy, Dubai",Dubai,2,United Arab Emirates,243,49.8,25.0742823,55.1885387,27.1,67,0
+1525652,11-03-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Pakistan,114,30.8,23.7643863,90.3890144,32.8,43,1
+1525652,11-03-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,115,16.2,23.7643863,90.3890144,28,66,1
+1525653,13-03-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Pakistan,274,48.3,23.7643863,90.3890144,32.2,45,2.4
+1525653,13-03-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,114,24,23.7643863,90.3890144,24.5,81,2.4
+1525654,15-03-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,290,51.8,23.7643863,90.3890144,26.3,75,17.6
+1525654,15-03-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Pakistan,279,50.8,23.7643863,90.3890144,24.8,74,17.6
+1528272,17-04-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,New Zealand,247,51.8,23.7643863,90.3890144,32.7,62,0.6
+1528272,17-04-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,221,50.7,23.7643863,90.3890144,29.1,79,0.6
+1528273,20-04-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,New Zealand,198,49.7,23.7643863,90.3890144,36.2,46,0.7
+1528273,20-04-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,199,36.7,23.7643863,90.3890144,30,74,0.7
+1528274,23-04-2026,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,1,Bangladesh,265,50.8,22.333778,91.8344348,33.1,59,0
+1528274,23-04-2026,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,2,New Zealand,210,45.7,22.333778,91.8344348,28.4,82,0
+1529140,04-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,1,Namibia,268,51.2,-22.5776104,17.0772739,26.2,37,0
+1529140,04-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,2,Oman,274,50.7,-22.5776104,17.0772739,20.7,58,0
+1529141,06-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,1,Namibia,189,47.5,-22.5776104,17.0772739,22.6,49,5.8
+1529142,08-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,1,Oman,163,21,-22.5776104,17.0772739,22.7,50,1.7
+1529142,08-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,2,Scotland,151,20.5,-22.5776104,17.0772739,17.3,88,1.7
+1529143,10-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,1,Oman,218,51.7,-22.5776104,17.0772739,24.5,49,1.4
+1529143,10-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,2,Namibia,223,50.2,-22.5776104,17.0772739,17.2,88,1.4
+1529144,12-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,1,Namibia,198,51,-22.5776104,17.0772739,25,37,0
+1529144,12-04-2026,"Namibia Cricket Ground, Windhoek",Windhoek,2,Scotland,199,38.8,-22.5776104,17.0772739,18.9,62,0
+1531696,25-04-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,200,49.5,19.2200292,84.8357446,32,67,0
+1531696,25-04-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United Arab Emirates,163,48.7,19.2200292,84.8357446,28.1,88,0
+1531697,27-04-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,268,51.2,19.2200292,84.8357446,31.8,64,0
+1531697,27-04-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Oman,243,48.7,19.2200292,84.8357446,29.1,78,0
+1531698,29-04-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Oman,305,50.8,19.2200292,84.8357446,31.9,66,0
+1531698,29-04-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,155,37.7,19.2200292,84.8357446,29.6,79,0
+1531699,01-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,289,51.5,19.2200292,84.8357446,32,66,0.4
+1531699,01-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United Arab Emirates,248,38.7,19.2200292,84.8357446,28.9,74,0.4
+1531700,03-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United Arab Emirates,308,48.3,19.2200292,84.8357446,30.6,73,0.2
+1531700,03-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Oman,254,41.2,19.2200292,84.8357446,27,89,0.2
+1531701,05-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,256,50.5,19.2200292,84.8357446,29.9,74,4
+1531701,05-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Oman,175,40.8,19.2200292,84.8357446,27.2,87,4
+1531702,12-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,243,51.8,19.2200292,84.8357446,30.9,67,0
+1531702,12-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,218,39.7,19.2200292,84.8357446,29.1,80,0
+1531703,14-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,321,47.7,19.2200292,84.8357446,31,72,0
+1531703,14-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United States of America,246,33,19.2200292,84.8357446,29.8,77,0
+1531704,16-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,United States of America,195,44.3,19.2200292,84.8357446,32,72,0
+1531704,16-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,199,36.7,19.2200292,84.8357446,30,82,0
+1531705,18-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,194,39.3,19.2200292,84.8357446,33,69,0
+1531705,18-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,Nepal,199,38.7,19.2200292,84.8357446,30.7,78,0
+1531706,20-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Scotland,169,44.3,19.2200292,84.8357446,34.1,65,0
+1531706,20-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United States of America,170,27.7,19.2200292,84.8357446,31.9,73,0
+1531707,22-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,1,Nepal,317,51.8,19.2200292,84.8357446,35.2,69,0.1
+1531707,22-05-2026,"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,2,United States of America,195,42.5,19.2200292,84.8357446,31.6,80,0.1
+1532480,09-06-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,284,51,23.7643863,90.3890144,26.8,88,6.2
+1532480,09-06-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Australia,191,44.5,23.7643863,90.3890144,27.2,88,6.2
+1532481,11-06-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Australia,187,42.8,23.7643863,90.3890144,32,64,1.7
+1532481,11-06-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Bangladesh,195,35.7,23.7643863,90.3890144,29.1,76,1.7
+1532482,14-06-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,1,Bangladesh,274,52.2,23.7643863,90.3890144,29.6,76,8.1
+1532482,14-06-2026,"Shere Bangla National Stadium, Mirpur",Dhaka,2,Australia,277,50,23.7643863,90.3890144,29,83,8.1
+1535645,30-05-2026,Rawalpindi Cricket Stadium,Rawalpindi,1,Australia,200,45.3,33.6511816,73.07598,30.7,34,0.2
+1535645,30-05-2026,Rawalpindi Cricket Stadium,Rawalpindi,2,Pakistan,202,43,33.6511816,73.07598,27.9,48,0.2
+1535646,02-06-2026,"Gaddafi Stadium, Lahore",Lahore,1,Australia,231,50.5,31.5133615,74.3334644,38,25,0.3
+1535646,02-06-2026,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,190,44.8,31.5133615,74.3334644,35.5,36,0.3
+1535647,04-06-2026,"Gaddafi Stadium, Lahore",Lahore,1,Australia,157,43,31.5133615,74.3334644,35.8,34,7.8
+1535647,04-06-2026,"Gaddafi Stadium, Lahore",Lahore,2,Pakistan,161,42.7,31.5133615,74.3334644,27.6,56,7.8
+1538304,03-06-2026,"Sabina Park, Kingston, Jamaica",Kingston,1,Sri Lanka,303,52.3,17.9712148,-76.7928128,30.6,62,0
+1538304,03-06-2026,"Sabina Park, Kingston, Jamaica",Kingston,2,West Indies,262,51,17.9712148,-76.7928128,28.7,68,0
+1538425,06-06-2026,"Maple Leaf North-West Ground, King City",King City,1,Canada,231,46.5,36.2125032,-121.1270413,26.2,19,0
+1538425,06-06-2026,"Maple Leaf North-West Ground, King City",King City,2,United States of America,235,40.7,36.2125032,-121.1270413,16.2,48,0
+1538426,08-06-2026,"Maple Leaf North-West Ground, King City",King City,1,Netherlands,196,51,36.2125032,-121.1270413,26.4,27,0
+1538426,08-06-2026,"Maple Leaf North-West Ground, King City",King City,2,United States of America,175,49.2,36.2125032,-121.1270413,18,66,0
+1538427,10-06-2026,"Maple Leaf North-West Ground, King City",King City,1,Netherlands,214,49,36.2125032,-121.1270413,36.8,16,0
+1538427,10-06-2026,"Maple Leaf North-West Ground, King City",King City,2,Canada,218,49.8,36.2125032,-121.1270413,29,32,0
+1538428,12-06-2026,"Maple Leaf North-West Ground, King City",King City,1,Canada,275,51.7,36.2125032,-121.1270413,38.9,14,0
+1538428,12-06-2026,"Maple Leaf North-West Ground, King City",King City,2,United States of America,276,51.8,36.2125032,-121.1270413,27,39,0
