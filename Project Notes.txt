@@ -12,8 +12,8 @@ overs_played
 
 What Each Feature Does to Y
 
-Feature			Expected Effect on Score				Cricket Logic
-Temperature ↑		Score ↑							Dry, hot air = no swing, fast outfield
-Humidity ↑		Score ↓							Moisture in air = late swing for seamers
-Rain (48hr) ↑		Score ↓							Wet pitch = seam movement, soft surface
+Feature			    Expected Effect on Score		    Cricket Logic
+Temperature ↑		Score ↑							    Dry, hot air = no swing, fast outfield
+Humidity ↑		    Score ↓							    Moisture in air = late swing for seamers
+Rain (48hr) ↑		Score ↓							    Wet pitch = seam movement, soft surface
 Batting 1st (=1)	Score ↑ slightly					Fresh pitch, no dew, but unknown target
