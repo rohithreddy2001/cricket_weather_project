@@ -6,8 +6,8 @@ X (features)                    Y (target)
 temperature_c                   team_total_score
 humidity_pct                    (runs scored in
 rain_48hr_mm                     one innings)
-batting_order (1 or 2)
 overs_played
+team_avg_run_rate
 
 
 What Each Feature Does to Y
